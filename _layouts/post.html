@@ -2,10 +2,11 @@
 layout: default
 ---
 
-{% comment %} Order and massage the tags the tags {% endcomment %}
+<!-- post layout -->
+{% comment %} Order the tags {% endcomment %}
 {% assign tags = page.tags | sort | downcase %}
 <article>
-	<div><time datetime="{{ page.date | date_to_rfc822 }}" pubdate>{{ page.date | date_to_string }}</time></div>
+	<div><time datetime="{{ page.date | date_to_xmlschema }}" pubdate>{{ page.date | date_to_string }}</time></div>
 	<header>
 	<h1>{{ page.title }}</h1>
 	</header>

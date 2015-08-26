@@ -1,8 +1,6 @@
 ---
 title: Home
-published: true
 ---
-
 
 # clvrmnky.org
 
@@ -10,4 +8,3 @@ published: true
 ## [{{ post.title }}]({{ post.url }})
 {{ post.excerpt | remove: '<p>' | remove: '</p>' }}
 {% endfor %}
-
