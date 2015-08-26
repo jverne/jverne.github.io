@@ -1,1 +1,30 @@
+# Setup
+title: The Clever Monkey
+tagline: 'A life in progress.'
+url: 'http://www.clevermonkey.org'
+shorturl: clvrmnky.org
+
+# C'est moi
+author:
+  name: 'John D. Verne'
+  url: 'https://about.me/jverne'
+  email: JohnDOTVerneATgmailDOTcom
+
+# Config
 timezone: America/Toronto
+permalink: pretty
+
+# Defaults
+defaults:
+   -
+    scope:
+        path: ""
+        type: "posts"
+    values:
+        layout: "post"
+   -
+    scope:
+        path: ""
+        type: "pages"
+    values:
+        layout: "post"

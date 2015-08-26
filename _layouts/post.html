@@ -1,0 +1,18 @@
+---
+layout: default
+---
+
+{% comment %} Order and massage the tags the tags {% endcomment %}
+{% assign tags = page.tags | sort | downcase %}
+<article>
+	<div><time datetime="{{ page.date | date_to_rfc822 }}" pubdate>{{ page.date | date_to_string }}</time></div>
+	<header>
+	<h1>{{ page.title }}</h1>
+	</header>
+	[{% for tag in tags %} {{ tag }} {% endfor %}]
+	<section>{{ content }}</section>
+
+	<footer>
+	<!-- comments -->
+	</footer>
+</article>
