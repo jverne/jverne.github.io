@@ -3,11 +3,22 @@ layout: default
 ---
 
 <!-- page layout -->
-<nav>[<a href="/">Home</a>, <a href="/about">About</a>]</nav>
-<header>
+<header class="header">
+	<div class="container">
+		<h1 class="header-heading">{{ site.title }}</h1>
+	</div>
 </header>
-<section>
-{{ content }}
-</section>
-<footer>
+
+<div class="content">
+	<div class="container">
+		<section class="main">
+			{{ content }}
+		</section>
+	</div>
+</div>
+
+<footer class="footer">
+	<div class="container">
+		Copyright &copy;2015 John D. Verne. All rights reserved.
+	</div>
 </footer>

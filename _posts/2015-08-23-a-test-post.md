@@ -1,6 +1,6 @@
 ---
 title: A Test Post
-tags: [zzz, ZZZ, aaaa, test, Jekyll, WTF, ]
+tags: [zzz, ZZZ, aaaa, test, Jekyll, WTF,]
 ---
 
 This is a test post.

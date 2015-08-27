@@ -13,6 +13,8 @@ author:
 # Config
 timezone: America/Toronto
 permalink: pretty
+kramdown:
+  auto_ids: false
 
 # Defaults
 defaults:

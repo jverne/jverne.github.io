@@ -4,16 +4,26 @@ layout: default
 
 <!-- post layout -->
 {% comment %} Order the tags {% endcomment %}
-{% assign tags = page.tags | sort | downcase %}
+{% assign tags = page.tags | sort %}
+<header class="header">
+	<div class="container">
+		<h1 class="header-heading">{{ site.title }}</h1>
+	</div>
+</header>
+
 <article>
-	<div><time datetime="{{ page.date | date_to_xmlschema }}" pubdate>{{ page.date | date_to_string }}</time></div>
 	<header>
-	<h1>{{ page.title }}</h1>
+		<hgroup>
+		<h2>{{ page.title }}</h2>
+		
+		<div><time datetime="{{ page.date | date_to_xmlschema }}">{{ page.date | date_to_string }}</time></div>
+
+		<div>{% for tag in tags %}{{ tag | downcase }} {% endfor %}</div>
+		</hgroup>
 	</header>
-	[{% for tag in tags %} {{ tag }} {% endfor %}]
-	<section>{{ content }}</section>
+	{{ content }}
 
 	<footer>
-	<!-- comments -->
+	Share, permalink, etc.
 	</footer>
 </article>
