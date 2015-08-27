@@ -1,8 +1,14 @@
 ---
 published: false
+title: "Is This Thing On?"
+tags: 
+  - blogging
+  - intro
+  - CMS
+  - GitHub
 ---
 
-## Is This Microphone On?
+## Is This Thing On?
 
 While researching hosting a CMS (again) for @CarmenNave I ran across a [very smart article about ditching the CMS model altogether](https://developmentseed.org/blog/2012/07/27/build-cms-free-websites/) for small personal sites.
 
