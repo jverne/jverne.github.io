@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 title: "Is This Thing On?"
 tags: 
   - blogging
@@ -7,8 +7,6 @@ tags:
   - CMS
   - GitHub
 ---
-
-## Is This Thing On?
 
 While researching hosting a CMS (again) for @CarmenNave I ran across a [very smart article about ditching the CMS model altogether](https://developmentseed.org/blog/2012/07/27/build-cms-free-websites/) for small personal sites.
 
@@ -25,5 +23,3 @@ But, being able to add content via Prose.io to a GitHub Pages site that auto-bui
 So, lots is going to change, and even more is going to appear a little dead. But the plan at this stage is for this to be the new home of clevermonkey.org.
 
 Consider it part of a life in progress.
-
-
