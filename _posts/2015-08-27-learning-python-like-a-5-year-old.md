@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 title: Learning Python Like a Five Year Old
 tags: 
   - python
