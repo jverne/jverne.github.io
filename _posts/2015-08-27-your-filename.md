@@ -8,9 +8,6 @@ tags:
   - GitHub
 ---
 
-
-## Is This Thing On?
-
 While researching hosting a CMS (again) for @CarmenNave I ran across a [very smart article about ditching the CMS model altogether](https://developmentseed.org/blog/2012/07/27/build-cms-free-websites/) for small personal sites.
 
 Like many coders, I was in love with building a solution based on their pet technology (in my case, I wanted an excuse to make a Linux [well, DD-WRT], Lua, Lighttpd, SQLite thingy) but I also new that I wanted something lighter weight and easier to maintain.
