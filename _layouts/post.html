@@ -9,8 +9,11 @@ layout: default
 {% include page_header.html %}
 
 <article class="container">
-	<header>
-		<h2>{{ page.title }} <small>on <time datetime="{{ page.date | date_to_xmlschema }}">{{ page.date | date_to_string }}</time></small></h2>
+	<header class="content">
+		<hgroup>
+		<h2>{{ page.title }}</h2>
+		<time datetime="{{ page.date | date_to_xmlschema }}">{{ page.date | date_to_string }}</time>
+		</hgroup>
 	</header>
 
 	<div class="content">
@@ -18,9 +21,11 @@ layout: default
 
 		<!-- Post metadata -->
 		<div class="post-metadata">
-			<a href="{{ page.url }}"><img src="/assets/img/link.png" alt="[permalink]" title="Permalink" width="16" height="16"> {{ page.title }}</a><br>
-			<img src="/assets/img/arrow-up.png" alt="[up]" title="Category" width="16" height="16"> Technology<br>
-			<img src="/assets/img/tag.png" alt="[tag]" title="Tags" width="16" height="16">{% for tag in tags %} {{ tag | downcase }} {% endfor %}<br>
+			<ul class="postmd">
+				<li class="postmd"><a href="{{ page.url }}"><img src="/assets/img/link.png" alt="[permalink]" title="Permalink" width="16" height="16"> {{ page.title }}</a></li>
+				<li class="postmd"><img src="/assets/img/arrow-up.png" alt="[up]" title="Category" width="16" height="16"> Technology</li>
+				<li class="postmd"><img src="/assets/img/tag.png" alt="[tag]" title="Tags" width="16" height="16">{% for tag in tags %} {{ tag | downcase }} {% endfor %}</li>
+			</ul>
 		</div>
 	</div>
 </article>
