@@ -3,19 +3,13 @@ layout: default
 ---
 
 <!-- page layout -->
-<header class="header">
-	<div class="container">
-		<h1 class="header-heading">{{ site.title }}</h1>
-	</div>
-</header>
+{% include page_header.html %}
 
-<div class="content">
-	<div class="container">
-		<section class="main">
-			{{ content }}
-		</section>
+<section class="container">
+	<div class="content">
+		{{ content }}
 	</div>
-</div>
+</section>
 
 <footer class="footer">
 	<div class="container">

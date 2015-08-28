@@ -87,6 +87,14 @@ Layout styles
 	padding: 1em 1.25em;
 }
 
+.header a
+{
+	display: inline;
+	padding: 0;
+	color: #fff;
+	text-decoration: none;
+}
+
 .header-heading { margin: 0; }
 
 .nav-bar
@@ -158,6 +166,11 @@ Nav
 /* -----------------------
 Single styles
 ------------------------*/
+.post-metadata {
+	font-family: "Source Sans Pro", "Helvetica Neue", Helvetica, Verdana, Geneva, sans-serif;
+	font-style: italic;
+	font-size: smaller;
+}
 
 .img-responsive { max-width: 100%; }
 

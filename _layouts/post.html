@@ -5,25 +5,31 @@ layout: default
 <!-- post layout -->
 {% comment %} Order the tags {% endcomment %}
 {% assign tags = page.tags | sort %}
-<header class="header">
-	<div class="container">
-		<h1 class="header-heading"><a href="/">{{ site.title }}</a></h1>
-	</div>
-</header>
+
+{% include page_header.html %}
 
 <article class="container">
 	<header>
-		<hgroup>
-		<h2><a href="{{ page.url }}">{{ page.title }}</a></h2>
-		<div><time datetime="{{ page.date | date_to_xmlschema }}">{{ page.date | date_to_string }}</time></div>
-		<p>{% for tag in tags %} {{ tag | downcase }} {% endfor %}</p>
-		</hgroup>
+		<h2>{{ page.title }} <small>on <time datetime="{{ page.date | date_to_xmlschema }}">{{ page.date | date_to_string }}</time></small></h2>
 	</header>
 
-	<div class="container">
-		{{ content }} <a href="{{ page.url }}"><img src="/assets/img/ss_60_Forward-and-Left-Arrow.png" alt="[permalink]" title="Permalink" width="20" height="20"></a>
+	<div class="content">
+		{{ content }}
+
+		<!-- Post metadata -->
+		<div class="post-metadata">
+			<a href="{{ page.url }}"><img src="/assets/img/link.png" alt="[permalink]" title="Permalink" width="16" height="16"> {{ page.title }}</a><br>
+			<img src="/assets/img/arrow-up.png" alt="[up]" title="Category" width="16" height="16"> Technology<br>
+			<img src="/assets/img/tag.png" alt="[tag]" title="Tags" width="16" height="16">{% for tag in tags %} {{ tag | downcase }} {% endfor %}<br>
+		</div>
 	</div>
 </article>
+
+<div class="container">
+<div class="postnav">
+<img src="/assets/img/arrow-left.png" alt="[previous]" title="Previous post" width="16" height="16"> Previous | Archive | Next <img src="/assets/img/arrow-right.png" alt="[next]" title="Next post" width="16" height="16">
+</div>
+</div>
 
 <footer class="footer">
 	<div class="container">
