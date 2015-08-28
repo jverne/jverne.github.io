@@ -16,6 +16,8 @@ permalink: pretty
 kramdown:
   auto_ids: false
 excerpt_separator: <!--more-->
+gems:
+   - jekyll-redirect-from
 
 # Defaults
 defaults:
