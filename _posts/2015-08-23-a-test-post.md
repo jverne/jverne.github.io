@@ -1,14 +1,22 @@
 ---
 title: A Test Post
-tags: [zzz, ZZZ, aaaa, test, Jekyll, WTF,]
+tags: 
+  - zzz
+  - ZZZ
+  - aaaa
+  - test
+  - Jekyll
+  - WTF
+published: true
 ---
+
 
 This is a test post.
 
 It really is.
 
 "Let's party, dude." -- Some Guy
-
+<!--more-->
 Here is some Lua code:
 
 {% highlight lua linenos %}
