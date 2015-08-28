@@ -8,9 +8,12 @@ tags:
 ---
 
 
+
 I've been putting off learning Python for a few years now. In some double irony, someone I met on an IRC channel dedicated to Perl is a big fan, and has been prodding me to learn it for nearly as many years.
 
 Recently, though, someone got my 5-year old daughter a classic [Spirograph](https://en.wikipedia.org/wiki/Spirograph) toy for her birthday, and she loves it. It got me to thinking that programming a version of Spirograph might be a neat project, and that led to me to old-school Logo turtle graphics, which led me to an O'Reilly webcast based on the book [Teach Your Kids to Code](https://www.nostarch.com/teachkids). All roads lead to O'Reilly, I suppose.
+
+<!--more-->
 
 I then realized that I'd be reinventing the wheel writing such an application, especially when there is a perfectly good [Python turtle graphics library](https://docs.python.org/3.5/library/turtle.html) to leverage, and entire books on the subject.
 
