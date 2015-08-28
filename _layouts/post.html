@@ -7,23 +7,26 @@ layout: default
 {% assign tags = page.tags | sort %}
 <header class="header">
 	<div class="container">
-		<h1 class="header-heading">{{ site.title }}</h1>
+		<h1 class="header-heading"><a href="/">{{ site.title }}</a></h1>
 	</div>
 </header>
 
-<article>
+<article class="container">
 	<header>
 		<hgroup>
-		<h2>{{ page.title }}</h2>
-		
+		<h2><a href="{{ page.url }}">{{ page.title }}</a></h2>
 		<div><time datetime="{{ page.date | date_to_xmlschema }}">{{ page.date | date_to_string }}</time></div>
-
-		<div>{% for tag in tags %}{{ tag | downcase }} {% endfor %}</div>
+		<p>{% for tag in tags %} {{ tag | downcase }} {% endfor %}</p>
 		</hgroup>
 	</header>
-	{{ content }}
 
-	<footer>
-	Share, permalink, etc.
-	</footer>
+	<div class="container">
+		{{ content }} <a href="{{ page.url }}"><img src="/assets/img/ss_60_Forward-and-Left-Arrow.png" alt="[permalink]" title="Permalink" width="20" height="20"></a>
+	</div>
 </article>
+
+<footer class="footer">
+	<div class="container">
+		{% include license.html %}	
+	</div>
+</footer>

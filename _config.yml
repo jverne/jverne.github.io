@@ -15,6 +15,7 @@ timezone: America/Toronto
 permalink: pretty
 kramdown:
   auto_ids: false
+excerpt_separator: <!--more-->
 
 # Defaults
 defaults:
