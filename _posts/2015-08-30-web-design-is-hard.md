@@ -1,5 +1,11 @@
 ---
 published: false
+category: "site-info"
+tags: 
+  - "site-info"
+  - jekyll
+  - html
+title: Web Design is Hard
 ---
 
 I keep tinkering with the layout and style of this site because I can't quite get what I want. I messed around with a few Jekyll site generators, and stole some ideas from other GitHub Pages, but I couldn't quite get what I wanted.
