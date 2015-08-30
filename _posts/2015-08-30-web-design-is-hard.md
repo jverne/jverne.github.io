@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 category: "site-info"
 tags: 
   - "site-info"
