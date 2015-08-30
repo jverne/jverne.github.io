@@ -6,38 +6,43 @@ layout: default
 {% comment %} Order the tags {% endcomment %}
 {% assign tags = page.tags | sort %}
 
-{% include page_header.html %}
-
-<article class="container">
-	<header class="content">
-		<hgroup>
+<article class="w3-container">
+	<header class="w3-container w3-theme-l4">
 		<h2>{{ page.title }}</h2>
-		<time datetime="{{ page.date | date_to_xmlschema }}">{{ page.date | date_to_string }}</time>
-		</hgroup>
+		<time datetime="{{ page.date | date_to_xmlschema }}">{{ page.date | date_to_long_string }}</time>
 	</header>
 
-	<div class="content">
-		{{ content }}
-
-		<!-- Post metadata -->
-		<div class="post-metadata">
-			<ul class="postmd">
-				<li class="postmd"><a href="{{ page.url }}"><img src="/assets/img/link.png" alt="[permalink]" title="Permalink" width="16" height="16"> {{ page.title }}</a></li>
-				<li class="postmd"><img src="/assets/img/arrow-up.png" alt="[up]" title="Category" width="16" height="16"> Technology</li>
-				<li class="postmd"><img src="/assets/img/tag.png" alt="[tag]" title="Tags" width="16" height="16">{% for tag in tags %} {{ tag | downcase }} {% endfor %}</li>
-			</ul>
-		</div>
-	</div>
+	<div>{{ content }}</div>
 </article>
 
-<div class="container">
-<div class="postnav">
-<img src="/assets/img/arrow-left.png" alt="[previous]" title="Previous post" width="16" height="16"> Previous | Archive | Next <img src="/assets/img/arrow-right.png" alt="[next]" title="Next post" width="16" height="16">
-</div>
-</div>
+<!-- post metadata -->
+<section class="w3-container">
+	<ul class="w3-ul w3-card w3-small w3-theme-l4">
+		<li><i class="fa fa-link w3-small"></i> <a href="{{ page.url }}">{{ page.title }}</a></li>
+		<li>{% for tag in tags %} <i class="fa fa-tag w3-small"></i> {{ tag | downcase }} {% endfor %}</li>
+		<li><i class="fa fa-level-up w3-small"></i> {% if page.categories == empty %} [Uncategorized] {% else %} {% for cat in page.categories %} {{ cat }} {% endfor %} {% endif %}</li>
+	</ul>
+</section>
 
-<footer class="footer">
-	<div class="container">
-		{% include license.html %}	
-	</div>
-</footer>
+<!-- comments -->
+<section class="w3-container">
+<div id="disqus_thread" class="w3-card">
+</div>
+</section>
+<script type="text/javascript">
+    /* * * CONFIGURATION VARIABLES * * */
+    var disqus_shortname = 'theclevermonkey';
+    
+    /* * * DON'T EDIT BELOW THIS LINE * * */
+    (function() {
+        var dsq = document.createElement('script'); dsq.type = 'text/javascript'; dsq.async = true;
+        dsq.src = '//' + disqus_shortname + '.disqus.com/embed.js';
+        (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(dsq);
+    })();
+</script>
+<noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript" rel="nofollow">comments powered by Disqus.</a></noscript>
+
+<!-- post nav -->
+<nav class="w3-topnav w3-margin-8">
+<i class="fa fa-arrow-circle-left w3-large"></i> <a href="{{ page.previous.url }}">Previous</a> | <a href="/archive">Archive</a> | <a href="{{ page.next.url }}">Next</a> <i class="fa fa-arrow-circle-right w3-large"></i>
+</nav>
