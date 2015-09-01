@@ -20,7 +20,7 @@ layout: default
 	<ul class="w3-ul w3-card w3-small w3-theme-l4">
 		<li><i class="fa fa-link w3-small"></i> <a href="{{ page.url }}">{{ page.title }}</a></li>
 		<li>{% for tag in tags %} <i class="fa fa-tag w3-small"></i> {{ tag | downcase }} {% endfor %}</li>
-		<li><i class="fa fa-level-up w3-small"></i> {% if page.categories == empty %} [Uncategorized] {% else %} {% for cat in page.categories %} {{ cat }} {% endfor %} {% endif %}</li>
+		<li><i class="fa fa-sitemap w3-small"></i> {% if page.categories == empty %} [Uncategorized] {% else %} {% for cat in page.categories %} {{ cat }} {% endfor %} {% endif %}</li>
 	</ul>
 </section>
 
