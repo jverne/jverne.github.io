@@ -1,6 +1,5 @@
 <!DOCTYPE html>
 <html>
-<!-- Generated {{ site.time | date_to_rfc822 }} -->
 {% include head.html %}
 
 <body>
@@ -8,13 +7,15 @@
 	{% include navbar.html %}
 </header>
 
-<section>
-{{ content }}
+<section class="w3-container">
+	{{ content }}
 </section>
 </body>
 
 <footer class="w3-container">
-	<div class="w3-theme-l4">{% include license.html %}</div>
-	<div></div>
+	<div class="w3-theme-l4 w3-padding-small">
+	<p>{% include license.html %}</p>
+	<p class="w3-small"><em>Generated on {{ site.time | date_to_rfc822 }} by rainbow octocats.</em></p>
+	</div>
 </footer>
 </html>
