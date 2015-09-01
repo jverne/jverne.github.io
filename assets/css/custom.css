@@ -3,3 +3,16 @@
 .nolink {
 	text-decoration: none;
 }
+
+.inline ul li {
+	list-style-type: none;
+}
+
+.inline {
+	display: inline;
+}
+
+.super {
+	font-size: x-small;
+	vertical-align: super;
+}
