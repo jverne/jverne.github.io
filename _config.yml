@@ -19,7 +19,7 @@ excerpt_separator: <!--more-->
 gems:
    - jekyll-redirect-from
 
-# Defaults
+# Jekyll Defaults
 defaults:
    -
     scope:
@@ -33,3 +33,16 @@ defaults:
         type: "pages"
     values:
         layout: "page"
+
+# Prose.io config
+prose:
+metadata:
+  _posts:
+    - name: "title"
+      field:
+        element: "text"
+        label: "title"
+    - name: "date"
+      field:
+        element: "text"
+        value: "CURRENT_DATETIME"
