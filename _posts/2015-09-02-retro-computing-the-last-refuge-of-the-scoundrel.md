@@ -23,6 +23,6 @@ Luckily, [there are other folks out there with similar interests](http://www.clu
 
 In this case, "won't go" means "appears to power up, but only displays a bar across a single column of the display". I've already verified some basic voltages and so on, and my fear is that we are on to the part of the manual where I need to start 'scoping out waveforms. With the oscilloscope I don't have.
 
-I don't need any excuse to buy a 'scope, and I don't need an excuse to [shave more yak](http://www.catb.org/~esr/jargon/html/Y/yak-shaving.html) turning my Arduino or [my lappy into a 'scope](http://www.instructables.com/id/Use-Your-Laptop-as-Oscilloscope/). But I might *have* to.
+I don't need any excuse to buy a 'scope, and I don't need an excuse to [shave more yaks](http://www.catb.org/~esr/jargon/html/Y/yak-shaving.html) turning my Arduino or [my lappy into a 'scope](http://www.instructables.com/id/Use-Your-Laptop-as-Oscilloscope/). But I might *have* to.
 
 The end goal here is simple: earn the [Hack a Day Retro success](http://retro.hackaday.com/Success/index.html) achievement badge**[esc]5Xi**t-shirt.
