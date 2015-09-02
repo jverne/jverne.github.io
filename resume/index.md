@@ -4,7 +4,6 @@ title: R&eacute;sum&eacute;
 
 # John Verne
 - Kitchener, ON, Canada
-- 226-606-9124
 - john.verne@gmail.com
 - [About me](https://about.me/jverne)
 - [Stack Overflow Careers profile](http://careers.stackoverflow.com/jverne)
