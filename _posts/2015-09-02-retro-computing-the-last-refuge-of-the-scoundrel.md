@@ -1,6 +1,6 @@
 ---
 date: "2015-09-02 14:59 -0400"
-published: false
+published: true
 title: "Retro-computing, the Last Refuge of the Scoundrel"
 category: "retro-computing"
 tags: 
@@ -8,6 +8,7 @@ tags:
   - m100
   - "TRS-80"
 ---
+
 
 Because I can't seem to get enough of 1980s high-technology, I've decided to attempt to resurrect a [TRS-80 Model-100](http://www.oldcomputers.net/trs100.html) I inherited years ago. Unfortunately, I made a classic rookie mistake by not properly putting it back together the last time I looked at it, so now I may have misplaced all the hardware that keeps it together.
 
