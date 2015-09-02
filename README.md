@@ -1,11 +1,6 @@
-A Github Pages personal site. I started basing this off the minimal
+A Github Pages personal site for [The Clever Monkey](http://www.clevermonkey.org). I started basing this off the minimal
 theme, but then abandoned that and went in my own ultra-simple direction.
 
-This is mostly an experiement so I can set up a site for someone else, 
-instead of hosting a full CMS.
+This is partly an experiement so I can figure out all the edges when setting up a site for someone else, instead of hosting a full CMS. The idea is to roll-up a solution using Github Pages, Jekyll, and [Prose.io](http://prose.io) to get a non-technical blog and home site.
 
-The idea is to create a site where all pages and posts are 100% markdown,
-with all templating down through Jekyll and Liquid, so all editing and
-updating can be done through something like Prose.io.
-
-The CSS is going to be the trickiest to get right.
+Since I am not particularly proficient with CSS, I've opted for a W3.CSS powered site. I may experiement with multiple responsive column layouts, but for now this remains an ugly single-column tech site where I blog about stuff that interests me.
