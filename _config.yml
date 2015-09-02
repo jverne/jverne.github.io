@@ -36,13 +36,13 @@ defaults:
 
 # Prose.io config
 prose:
-metadata:
-  _posts:
-    - name: "title"
-      field:
-        element: "text"
-        label: "title"
-    - name: "date"
-      field:
-        element: "text"
-        value: "CURRENT_DATETIME"
+   metadata:
+     _posts:
+       - name: "title"
+         field:
+           element: "text"
+           label: "title"
+       - name: "date"
+         field:
+           element: "text"
+           value: "CURRENT_DATETIME"
