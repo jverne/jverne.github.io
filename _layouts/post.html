@@ -6,7 +6,7 @@ layout: default
 	<!-- article header -->
 	<header class="w3-theme-l4">
 		<h2>{{ page.title }}</h2>
-		<time datetime="{{ page.date | date_to_xmlschema }}"><em>{{ page.date | date_to_long_string }}</em></time>
+		<time datetime="{{ page.date | date_to_xmlschema }}"><em>{{ page.date | date: "%c" }}</em></time>
 	</header>
 
 	<!-- article contents -->
