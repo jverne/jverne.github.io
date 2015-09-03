@@ -1,6 +1,6 @@
 ---
 date: "2015-09-03 14:04 -0400"
-published: false
+published: true
 title: Two Great Tastes
 category: work
 tags: 
