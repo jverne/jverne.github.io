@@ -1,6 +1,8 @@
 ---
-title: R&eacute;sum&eacute;
+title: "R&eacute;sum&eacute;"
+published: true
 ---
+
 
 # John Verne
 - Kitchener, ON, Canada
@@ -110,16 +112,14 @@ Liaised between customers and R&amp;D for critical escalations.
 **Advanced Java Programming**, Conestoga College Institute of Technology and Advanced Learning, *2001*
 
 
-Updated Java skills at night for several semesters while working full-time as a Java developer at MKS.
+Updated advanced Java skills while working full-time as a Java developer at MKS. I aced every course and was able to put my new skills to work immediately.
 
 ---
 
 **Certificate in Computer Programming**, Ryerson University, *1994 – 1996*
 
 
-While working full-time I maintained 4.0 GPA, earning over a year of university credits.
-
-I started employment with MKS two credits shy of completion.
+I maintained a 4.0 GPA while working full-time. I started employment with MKS two credits shy of completion.
 
 ---
 
