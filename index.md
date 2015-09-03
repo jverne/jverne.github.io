@@ -4,7 +4,7 @@ title: Home
 
 {% for post in site.posts limit:15 %}
 ## [{{ post.title }}]({{ post.url }})
-_<time datetime="{{ post.date | date_to_xmlschema }}">{{ post.date | date: "%c" }}</time>_
+_<time datetime="{{ post.date | date_to_xmlschema }}">{{ post.date | date: "%a, %d %b %Y %R %Z" }}</time>_
 
 {{ post.excerpt | remove: '<p>' | remove: '</p>' }}
 
