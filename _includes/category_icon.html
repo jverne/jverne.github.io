@@ -1,5 +1,4 @@
-{% assign category = include.categories | first %}
-{% case category %}
+{% case include.category %}
 {% when 'retro-computing' %}
 	{% assign category_icon = 'fax' %}
 {% when 'site-info' %}
