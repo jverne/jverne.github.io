@@ -3,7 +3,8 @@ title: Home
 ---
 
 {% for post in site.posts limit:15 %}
-## [{{ post.title }}]({{ post.url }})
+
+<h2>{% include category_icon.html categories=post.categories iconsize="large" %} <a href="{{ post.url }}">{{ post.title }}</a></h2>
 _<time datetime="{{ post.date | date_to_xmlschema }}">{{ post.date | date: "%a, %d %b %Y %R %Z" }}</time>_
 
 {{ post.excerpt | remove: '<p>' | remove: '</p>' }}

@@ -1,0 +1,15 @@
+{% assign category = include.categories | first %}
+{% case category %}
+{% when 'retro-computing' %}
+	{% assign category_icon = 'fax' %}
+{% when 'site-info' %}
+	{% assign category_icon = 'sticky-note' %}
+{% when 'work' %}
+	{% assign category_icon = 'building' %}
+{% else %}
+	{% assign category_icon = 'folder-o' %}
+{% endcase %}
+{% unless category == null %}
+<a href="/categories/#{{ category }}" title="See all posts in '{{ category }}'">{% endunless %}
+<i class="fa fa-{{category_icon}} w3-{{include.iconsize}}"></i>{% unless category == "" %}</a>
+{% endunless %}
