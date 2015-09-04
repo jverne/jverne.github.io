@@ -5,7 +5,7 @@ tags:
   - "retro-computing"
   - "kim-1"
   - emulators
-date: "2015-09-04 10:02 -0400"
+date: "2015-08-27 10:02 -0400"
 category: "retro-computing"
 ---
 
