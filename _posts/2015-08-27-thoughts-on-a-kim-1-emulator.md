@@ -5,7 +5,10 @@ tags:
   - "retro-computing"
   - "kim-1"
   - emulators
+date: "2015-09-04 10:02 -0400"
+category: "retro-computing"
 ---
+
 
 
 So, nobody has _really_ made a fully binary compatible [KIM-1](http://www.oldcomputers.net/kim1.html) software emulator.
