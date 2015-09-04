@@ -18,9 +18,9 @@ layout: default
 	<ul class="w3-ul w3-small w3-theme-l4">
 		<li><i class="fa fa-arrow-circle-left w3-large"></i> <a href="{{ page.previous.url }}">Previous</a> &middot; <a href="/archive">Archive</a> &middot; <a href="{{ page.next.url }}">Next</a> <i class="fa fa-arrow-circle-right w3-large"></i></li>
 		<li><i class="fa fa-link w3-small"></i> <a href="{{ page.url }}">{{ page.title }}</a></li>
-		<li>{% for tag in tags %} <i class="fa fa-tag w3-small"></i> {{ tag | downcase }} {% endfor %}</li>
+		<li>{% for tag in tags %} <i class="fa fa-tag w3-small"></i> <a href="/tags/#{{ tag }}">{{ tag | downcase }}</a> {% endfor %}</li>
 		{% if page.categories != empty %}
-			<li><i class="fa fa-sitemap w3-small"></i> {% for cat in page.categories %} {{ cat }} {% else %} fnord {% endfor %}</li>
+			<li><i class="fa fa-sitemap w3-small"></i> {% for cat in page.categories %} <a href="/categories/#{{ cat }}">{{ cat }}</a> {% endfor %}</li>
 		{% endif %}
 	</ul>
 	</section>
