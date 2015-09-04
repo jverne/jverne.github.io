@@ -4,7 +4,7 @@ title: Home
 
 {% for post in site.posts limit:15 %}
 {% assign post_category = post.categories | first %}
-<h2>{% include category_icon.html category=post_category iconsize="large" %} <a href="{{ post.url }}">{{ post.title }}</a></h2>
+<h2 class="w3-xlarge">{% include category_icon.html category=post_category iconsize="large" %} <a href="{{ post.url }}">{{ post.title }}</a></h2>
 _<time datetime="{{ post.date | date_to_xmlschema }}">{{ post.date | date: "%a, %d %b %Y %R %Z" }}</time>_
 
 {{ post.excerpt | remove: '<p>' | remove: '</p>' }}
