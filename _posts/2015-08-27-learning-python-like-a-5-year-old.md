@@ -5,7 +5,10 @@ tags:
   - python
   - kids
   - coding
+date: "2015-08-27 10:48 -0400"
+category: coding
 ---
+
 
 
 
