@@ -1,6 +1,6 @@
 ---
 date: "2015-09-05 17:11 -0400"
-published: false
+published: true
 title: Beware the Food Blogger
 category: food
 tags: 
