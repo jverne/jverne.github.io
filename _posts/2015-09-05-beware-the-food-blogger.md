@@ -19,6 +19,6 @@ Anyway, it was time to switch gears and put some of this great [CSA farm](http:/
 
 Wings! Wings of the magical chicken! From the market!
 
-So, yeah. I threw together a basic sweet and hot sauce using a blackened habeñero and garlic, which will be the basis for an experiment in sticky, spicy wings for dad. Mom gets her fave butter-and-milder-sauce, and the kiddo gets her special "Tangy" sauce from her own cookbook. Everyone is happy!
+So, yeah. I threw together a basic sweet and hot sauce using a blackened habeñero and garlic ([loosely based on this recipe](http://www.seriouseats.com/recipes/2011/01/habanero-barbecue-wings-recipe-super-bowl.html)), which will be the basis for an experiment in sticky, *super* **spicy** wings for dad. Mom gets her fave butter-and-milder-sauce, and the kiddo gets her special "Tangy" sauce from her own cookbook. Everyone is happy!
 
 Happy Labour Day Weekend, y'all. Stay spicy.
