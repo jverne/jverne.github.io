@@ -4,6 +4,7 @@ published: true
 ---
 
 
+
 # John Verne
 - Kitchener, ON, Canada
 - john.verne@gmail.com
@@ -111,13 +112,11 @@ Liaised between customers and R&amp;D for critical escalations.
 
 **Advanced Java Programming**, Conestoga College Institute of Technology and Advanced Learning, *2001*
 
-
 Updated advanced Java skills while working full-time as a Java developer at MKS. I aced every course and was able to put my new skills to work immediately.
 
 ---
 
 **Certificate in Computer Programming**, Ryerson University, *1994 – 1996*
-
 
 I maintained a 4.0 GPA while working full-time. I started employment with MKS two credits shy of completion.
 
@@ -141,7 +140,7 @@ I maintained a 4.0 GPA while working full-time. I started employment with MKS tw
 
 **GitHub - NQC**, [https://github.com/jverne/nqc](https://github.com/jverne/nqc), *January 2014 - May 2015*
 
-c++, make, openbsd, osx, lego
+_c, c++, make, openbsd, osx, lego, rcx_
 
 NQC (Not Quite C) is a programming language for several LEGO MINDSTORMS products including the RCX, CyberMaster, and Scout.
   
@@ -153,7 +152,7 @@ At this time I am the de facto maintainer for the NQC project.
 
 **GitHub - Lr23PublishService**, [https://github.com/jverne/Lr23PublishService](https://github.com/jverne/Lr23PublishService), *August 2015*
 
-lua, lightroom
+_lua, lightroom_
 
 A Lightroom Publish Service for 23 Photo Sharing
   
@@ -163,7 +162,7 @@ I created this Publish Service to allow me to publish and update photos directly
 
 **GitHub - Arduino**, [https://github.com/jverne/Arduino](https://github.com/jverne/Arduino), *June 2015*
 
-html, java, arduino, python
+_html, java, arduino, python_
 
 open-source electronics prototyping platform
   
@@ -173,7 +172,7 @@ I have contributed a few patches over the years, before the source was hosted on
 
 **GitHub - openldap**, [https://github.com/jverne/openldap](https://github.com/jverne/openldap), *January 2014 - June 2013*
 
-openldap, ldap, windows, devenv
+_openldap, ldap, windows, devenv_
 
 Files necessary for building OpenLDAP on Windows
   
