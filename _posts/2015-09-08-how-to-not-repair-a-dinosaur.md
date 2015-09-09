@@ -11,17 +11,15 @@ tags:
 ---
 
 
-
-
 As I mentioned in [a previous post]({% post_url 2015-09-02-retro-computing-the-last-refuge-of-the-scoundrel %}) I have a dinosaur of a [TRS-80 Model 100](http://www.oldcomputers.net/trs100.html) that I'm trying to bring back to life.
-
-<!--more-->
 
 The symptoms:
 
 <a data-flickr-embed="true"  href="https://www.flickr.com/photos/clvrmnky/21233283076/in/datetaken-public/" title="Slightly Dead Model 100"><img src="https://farm6.staticflickr.com/5725/21233283076_24791a5140.jpg" width="500" height="281" alt="Slightly Dead Model 100"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
 It responds to power by setting all the LCD pixels on except for that weird half column. Reset doesn't _seem_ do anything.
+
+<!--more-->
 
 Armed with nothing more than a copy of the original Tandy service manual I found on the internet, a cheap DMM, and three semesters of high school electronics shop education, I started troubleshooting today.
 
