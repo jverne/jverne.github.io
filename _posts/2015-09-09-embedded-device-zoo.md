@@ -11,6 +11,7 @@ tags:
   - embedded
 ---
 
+
 While cleaning up my work area today I moved a bunch of electronics stuff around into different storage boxes. Since I had _most_ of the turnkey embedded hobby systems out as part of that reorganization, I decided to take a photo of them.
 
 <a data-flickr-embed="true"  href="https://www.flickr.com/photos/clvrmnky/21285543061/in/datetaken-public/" title="Embedded Device Zoo"><img src="https://farm6.staticflickr.com/5685/21285543061_bd6884476c.jpg" width="372" height="500" alt="Embedded Device Zoo"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
@@ -27,7 +28,6 @@ Not shown:
 
 1. An Arduino-based TriggerTrap photography tool (a Kickstarter reward)
 
-I was originally going toturn the BeagleBone into a low-power edge box running Arch Linux, but that project was easier with some donated hardware and [DD-WRT](http://www.dd-wrt.com/site/index). The Chronos watch I've tweaked heavily, but the irony is I never wear a watch, so it sits in a box. The Arduino is currently a KIM UNO KIM-1 (incomplete) software-only emulator as discussed earlier. I'd like to get back to getting the KIM-1 RRIOTs emulation more complete.
+I was originally going toturn the BeagleBone into a low-power edge box running Arch Linux, but that project was easier with some donated hardware and [DD-WRT](http://www.dd-wrt.com/site/index). The Chronos watch I've tweaked heavily, but the irony is I never wear a watch, so it sits in a box. The Arduino is currently a KIM UNO KIM-1 (incomplete) software-only emulator [as discussed earlier]({% post_url 2015-08-27-thoughts-on-a-kim-1-emulator %}). I'd like to get back to getting the KIM-1 RRIOTs emulation more complete.
 
-The other two I've run the equivalent of "Hello World" on (_i.e._, made an LED flash). 
-
+The other two I've run the equivalent of "Hello World" on (_i.e._, made an LED flash).
