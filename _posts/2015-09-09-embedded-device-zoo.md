@@ -1,6 +1,6 @@
 ---
 date: "2015-09-09 14:50 -0400"
-published: false
+published: true
 title: Embedded Device Zoo
 category: "embedded-systems"
 tags: 
