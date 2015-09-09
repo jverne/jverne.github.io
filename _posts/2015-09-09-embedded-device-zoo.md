@@ -11,6 +11,7 @@ tags:
   - embedded
 ---
 
+
 While cleaning up my work area today I moved a bunch of electronics stuff around into different storage boxes. Since I had _most_ of the turnkey embedded hobby systems out as part of that reorganization, I decided to take a photo of them.
 
 <a data-flickr-embed="true"  href="https://www.flickr.com/photos/clvrmnky/21285543061/in/datetaken-public/" title="Embedded Device Zoo"><img src="https://farm6.staticflickr.com/5685/21285543061_bd6884476c.jpg" width="372" height="500" alt="Embedded Device Zoo"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
