@@ -10,7 +10,8 @@ tags:
   - hacking
 ---
 
-As I mentioned in [a previous post]({% post_url 2010-07-21-name-of-post %}) I have a dinosaur of a [TRS-80 Model 100](http://www.oldcomputers.net/trs100.html) that I'm trying to bring back to life.
+
+As I mentioned in [a previous post]({% post_url 2015-09-02-retro-computing-the-last-refuge-of-the-scoundrel %}) I have a dinosaur of a [TRS-80 Model 100](http://www.oldcomputers.net/trs100.html) that I'm trying to bring back to life.
 
 The symptoms:
 
