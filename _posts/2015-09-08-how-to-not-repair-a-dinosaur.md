@@ -1,6 +1,6 @@
 ---
 date: "2015-09-08 22:02 -0400"
-published: false
+published: true
 title: How to not Repair a Dinosaur
 category: "retro-computing"
 tags: 
