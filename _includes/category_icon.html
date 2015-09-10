@@ -1,16 +1,18 @@
 {% case include.category %}
 {% when 'retro-computing' %}
-	{% assign category_icon = 'recycle' %}
+	{% assign category_icon = 'floppy-o' %}
 {% when 'site-info' %}
 	{% assign category_icon = 'info-circle' %}
 {% when 'work' %}
-	{% assign category_icon = 'building' %}
+	{% assign category_icon = 'industry' %}
 {% when 'coding' %}
 	{% assign category_icon = 'code' %}
 {% when 'food' %}
-	{% assign category_icon = 'fire' %}
+	{% assign category_icon = 'cutlery' %}
 {% when 'embedded-systems' %}
-	{% assign category_icon = 'cogs' %}
+	{% assign category_icon = 'wrench' %}
+{% when 'photography' %}
+	{% assign category_icon = 'camera-retro' %}
 {% else %}
 	{% assign category_icon = 'folder-o' %}
 {% endcase %}
