@@ -4,7 +4,7 @@ layout: default
 
 <article class="w3-container">
 	<!-- article header -->
-	<header class="w3-theme-l4">
+	<header>
 		{% assign page_category = page.categories | first %}
 		<h2 class="w3-xlarge">{% include category_icon.html category=page_category iconsize="large" %} {{ page.title }}</h2>
 		<time datetime="{{ page.date | date_to_xmlschema }}"><em>{{ page.date | date: "%a, %d %b %Y %R %Z" }}</em></time>

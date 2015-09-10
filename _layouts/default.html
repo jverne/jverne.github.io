@@ -3,11 +3,22 @@
 {% include head.html %}
 
 <body>
-<header class="w3-container">
-	{% include navbar.html %}
+{% include navbar.html %}
+
+<header class="w3-container w3-theme">
+  	<span class="w3-opennav w3-large" title="Menu" onclick="w3_open()">
+  		<i class="fa fa-bars"></i>
+  	</span>
+  	<h1 class="w3-xlarge">
+  		<span class="fa-stack w3-large">
+			<i class="fa fa-square-o fa-stack-2x" title="{{ site.tagline }}"></i>
+			<i class="fa fa-terminal fa-stack-1x" title="{{ site.tagline }}" alt="[terminal icon]"></i>
+		</span>
+  		<a href="/" class="nolink">{{ site.title }}</a>
+  	</h1>
 </header>
 
-<div class="w3-container">
+<div class="w3-container w3-text-theme">
 	{{ content }}
 </div>
 
@@ -17,4 +28,6 @@
 	<p class="w3-tiny"><em>Generated on {{ site.time | date_to_rfc822 }} by <i class="fa fa-magic"></i> magical <i class="fa fa-cloud"></i> rainbow <i class="fa fa-github"></i> octocats.</em></p>
 	</div>
 </footer>
+
+{% include menu_script %}
 </html>
