@@ -13,7 +13,7 @@ tags:
 
 There is a very [interesting article about Agile methodologies as labour unions](http://www.westspacejournal.org.au/article/the-agile-union/) over at West Space Journal. I'm still making my way through it (it isn't particularly long, but I've been... _distracted_) but I wanted to get some ideas down while they are fresh in my mind.
 
-<!--more-->
+<a name="more"></a>
 
 But, you should read that article I linked to. I'll wait here whilst you do so.
 

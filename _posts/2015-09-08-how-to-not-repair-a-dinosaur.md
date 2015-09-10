@@ -19,7 +19,7 @@ The symptoms:
 
 It responds to power by setting all the LCD pixels on except for that weird half column. Reset doesn't _seem_ do anything.
 
-<!--more-->
+<a name="more"></a>
 
 Armed with nothing more than a copy of the original Tandy service manual I found on the internet, a cheap DMM, and three semesters of high school electronics shop education, I started troubleshooting today.
 

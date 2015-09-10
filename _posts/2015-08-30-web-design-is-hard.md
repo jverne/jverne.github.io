@@ -13,7 +13,7 @@ I keep tinkering with the layout and style of this site because I can't quite ge
 
 I learned a lot from poking about in other GitHub Pages, but at the end of the day many of these even simple sites do a little too much; or they do too much I don't understand. Like many people, I needed to bring up my site from scratch so I grokked as much as I needed to.
 
-<!--more-->
+<a name="more"></a>
 
 I ran into [the W3 Schools W3.CSS tutorial](http://www.w3schools.com/w3css/default.asp) which isn't really about beautiful pages, but it gave me enough to grab onto so I could leverage what I already know to make The Clever Monkey somewhat responsive and somewhat HTML5 semantically sane. Along the way I figured out much of what I need to know to get Jekyll and Liquid templating working, and found a nice set of plain icons hosted on a CDN by [Font Awesome](https://fortawesome.github.io/Font-Awesome/) (thanks guys!) so I don't even have to rescale the usual AIGA sign images I've been using for "decoration" on the old site.
 

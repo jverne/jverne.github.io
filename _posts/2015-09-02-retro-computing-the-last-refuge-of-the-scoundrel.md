@@ -14,7 +14,7 @@ tags:
 
 Because I can't seem to get enough of 1980s high-technology, I've decided to attempt to resurrect a [TRS-80 Model-100](http://www.oldcomputers.net/trs100.html) I inherited years ago. Unfortunately, I made a classic rookie mistake by not properly putting it back together the last time I looked at it, so now I may have misplaced all the hardware that keeps it together.
 
-<!--more-->
+<a name="more"></a>
 
 Assuming I can find the _specific_ plastic 35mm film canister I recall stuffing the screws and other fasteners I removed from it earlier, hopefully I'll be able to fix it _and_ put it back together enough to surf the web at 300 baud and code in Microsoft BASIC v1.1 (which was authored by some unknown coder who calls himself "Bill Gates") in short order.
 

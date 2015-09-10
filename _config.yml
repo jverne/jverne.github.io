@@ -15,7 +15,7 @@ timezone: America/Toronto
 permalink: pretty
 kramdown:
   auto_ids: false
-excerpt_separator: <!--more-->
+excerpt_separator: <a name="more"></a>
 gems:
    - jekyll-redirect-from
 

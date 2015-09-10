@@ -12,7 +12,7 @@ _<time datetime="{{ post.date | date_to_xmlschema }}">{{ post.date | date: "%a, 
 {% assign full_length = post.content | strip_html | strip_newlines | size %}
 {% assign excerpt_length = post.excerpt | strip_html | strip_newlines | size %}
 {% if full_length > excerpt_length %}
-[<i class="fa fa-ellipsis-h" title="Open '{{ post.title}}'"></i>]({{ post.url }})
+[<i class="fa fa-ellipsis-h" title="Open '{{ post.title}}'"></i>]({{ post.url }}#more)
 {% endif %}
 
 {% unless forloop.last %}---{% endunless %}

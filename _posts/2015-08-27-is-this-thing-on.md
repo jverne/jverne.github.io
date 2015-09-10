@@ -18,9 +18,9 @@ While researching hosting a CMS (again) for @CarmenNave I ran across a [very sma
 
 Like many coders, I was in love with building a solution based on their pet technology (in my case, I wanted an excuse to make a Linux [well, DD-WRT], Lua, Lighttpd, SQLite thingy) but I also knew that I wanted something lighter weight and easier to maintain.
 
-<!--more-->
-
 Well, what could be more lightweight than letting GitHub host static pages underpinned by Jekyll and decent templating? When I looked at Jekyll the first time I liked it, but I didn't want to go down the road of hosting it locally if I had to build a front-end (I'm afraid of Javascript!) that was necessary for non-git-command-line-using folks.
+
+<a name="more"></a>
 
 But simply adding the lightest front-end in the form of [Prose.io](http://prose.io) sealed the deal. Since my blog has been languishing on a dying OpenBSD/mini-ITX edge-box, and then moved (sort of) to Tumblr, why not give it a try and then use that as a model for Carmen?
 

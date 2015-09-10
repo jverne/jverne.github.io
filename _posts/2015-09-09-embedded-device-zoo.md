@@ -16,7 +16,7 @@ While cleaning up my work area today I moved a bunch of electronics stuff around
 
 <a data-flickr-embed="true"  href="https://www.flickr.com/photos/clvrmnky/21285543061/in/datetaken-public/" title="Embedded Device Zoo"><img src="https://farm6.staticflickr.com/5685/21285543061_bd6884476c.jpg" width="372" height="500" alt="Embedded Device Zoo"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
-<!--more-->
+<a name="more"></a>
 
 Clockwise from lower-left:
 

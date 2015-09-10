@@ -15,7 +15,7 @@ So, nobody has _really_ made a fully binary compatible [KIM-1](http://www.oldcom
 
 [KIM Uno](http://obsolescence.wix.com/obsolescence#!kim-uno-summary/c1uuh) KIM-on-an-[Arduino](http://arduino.cc) project is really cool, and highly accessible. It does 96% of what needs to be done, even without hardware. The [MAME/MESS](http://www.mess.org/) mess is an approximation, but it doesn't do single-stepping, which is pretty much the best thing about the KIM-1. And it really doesn't behave like a KIM-1. I even found an old Palm III emulator that is actually pretty close, but it does not pass the acid test.
 
-<!--more-->
+<a name="more"></a>
 
 Where by "acid test" I mean "does it play [WUMPUS](https://en.wikipedia.org/wiki/Hunt_the_Wumpus)?"
 

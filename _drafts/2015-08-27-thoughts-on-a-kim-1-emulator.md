@@ -8,6 +8,8 @@ So, nobody has _really_ made a fully binary compatible [KIM-1](http://www.oldcom
 
 Where by "acid test" I mean "does it play [WUMPUS](https://en.wikipedia.org/wiki/Hunt_the_Wumpus)?"
 
+<a name="more"></a>
+
 Because of how the KIM-1 was designed, the intention was to give the engineer a pretty complete turnkey solution that would highlight the features of the [MOS](https://en.wikipedia.org/wiki/MOS_Technology) [65xx](https://en.wikipedia.org/wiki/MOS_Technology_65xx) family of [CMOS](https://en.wikipedia.org/wiki/CMOS) processors. And it does this admirably. So well, in fact, that people just bought them to do the work the MOS expected them to design new boards for.
 
 So a full emulation requires emulating not just the CPU and registers and ROM, all of which appears to be pretty straightforward. It also requires emulating the two 6530 [RRIOTs](https://en.wikipedia.org/wiki/MOS_Technology_RRIOT) that provided the IO and timer capabilities they were demonstrating. And WUMPUS needs a working timer. (Perhaps for its sucker feet?)
