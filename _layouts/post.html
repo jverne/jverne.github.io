@@ -5,62 +5,54 @@ layout: default
 <article class="w3-container">
 	<!-- article header -->
 	<header>
+		<hgroup>
 		{% assign page_category = page.categories | first %}
 		<h2 class="w3-xlarge">{% include category_icon.html category=page_category iconsize="large" %} {{ page.title }}</h2>
 		<time datetime="{{ page.date | date_to_xmlschema }}"><em>{{ page.date | date: "%a, %d %b %Y %R %Z" }}</em></time>
-	</header>
+		</hgroup>
 
-	<!-- article contents -->
-	<section>{{ content }}</section>
-
-	<!-- post metadata -->
-	<section>
-	{% assign tags = page.tags | sort %}
-	<ul class="w3-ul w3-small w3-theme-light">
-		<!-- this one is semaniically a navbar -->
-		<li><i class="fa fa-arrow-circle-left w3-large"></i>
-			<a title="Go back to '{{ page.previous.title }}'"
-			href="{{ page.previous.url }}">Previous</a>
-			&middot;
-			<a title="Go to all posts" href="/archive">Archive</a>
-			&middot;
-			{% if page.next.title %}
-			<a title="Go to next post '{{ page.next.title }}'"
-			href="{{ page.next.url }}">Next</a>
-			{% else %}
-			Next
-			{% endif %}
-			<i class="fa fa-arrow-circle-right w3-large"></i></li>
+		<!-- post metadata -->
+		<hgroup class="w3-margin-8">
+		<ul class="w3-ul w3-tiny w3-theme-light w3-card">
 		<li><i class="fa fa-link w3-small"></i>
 			<a title="Permalink to '{{ page.title }}'"
 			href="{{ page.url }}">{{ page.title }}</a></li>
-		<li>{% for tag in tags %}
+		{% if page.categories != empty %}
+		<li><i class="fa fa-sitemap w3-small"></i> {% for cat in page.categories %}
+			<a title="See all posts in category '{{ cat }}'" href="/categories/#{{ cat }}">{{ cat }}</a> {% endfor %}</li>
+		{% endif %}
+		<li>{% assign tags = page.tags | sort %}
+			{% for tag in tags %}
 			<i class="fa fa-tag w3-small"></i>
 			<a title="See all posts tagged '{{ tag }}'"
 			href="/tags/#{{ tag }}">{{ tag | downcase }}</a>
-		{% endfor %}</li>
-		{% if page.categories != empty %}
-			<li><i class="fa fa-sitemap w3-small"></i> {% for cat in page.categories %} <a title="See all posts in category '{{ cat }}'" href="/categories/#{{ cat }}">{{ cat }}</a> {% endfor %}</li>
-		{% endif %}
-	</ul>
-	</section>
-</article>
+			{% endfor %}</li>
+		<li>
+			<!-- post navigation -->
+			<nav>
+				{% if page.previous.title %}
+				<i class="fa fa-chevron-circle-left"></i>
+				<a title="Go back to '{{ page.previous.title }}'" href="{{ page.previous.url }}">Previous</a>
+				{% else %}
+				<i class="fa fa-circle"></i>
+				Previous
+				{% endif %}
+				&middot;
+				<a title="Go to all posts" href="/archive">Archive</a>
+				&middot;
+				{% if page.next.title %}
+				<a title="Go to next post '{{ page.next.title }}'" href="{{ page.next.url }}">Next</a>
+				<i class="fa fa-chevron-circle-right"></i>
+				{% else %}
+				Next
+				<i class="fa fa-circle"></i>
+				{% endif %}</nav></li>
+		</ul>
+		</hgroup>
+	</header>
 
-<!-- comments; this brittle stuff doesn't work as an include. -->
-<div id="disqus_thread" class="w3-container w3-margin-large">
-</div>
-<script type="text/javascript">
-    /* * * CONFIGURATION VARIABLES * * */
-    var disqus_shortname = 'theclevermonkey';
-    var disqus_identifier = '{{ page.id | slugify }}';
-    var disqus_title = '{{ page.title }}';
-    var disqus_url = '{{ site.url }}{{page.url }}';
-    
-    /* * * DON'T EDIT BELOW THIS LINE * * */
-    (function() {
-        var dsq = document.createElement('script'); dsq.type = 'text/javascript'; dsq.async = true;
-        dsq.src = '//' + disqus_shortname + '.disqus.com/embed.js';
-        (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(dsq);
-    })();
-</script>
-<noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript" rel="nofollow">comments powered by Disqus.</a></noscript>
+
+
+	<!-- article contents -->
+	<section>{{ content }}</section>
+</article>
