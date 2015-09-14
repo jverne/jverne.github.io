@@ -1,6 +1,6 @@
 ---
 date: "2015-09-14 15:13 -0400"
-published: false
+published: true
 title: Night of the Living Programmer
 category: daily
 tags: 
@@ -9,6 +9,7 @@ tags:
   - GeekWeek
   - HackerNest
 ---
+
 
 I'm not sure how I feel about today being [Day of the Programmer](https://en.wikipedia.org/wiki/Day_of_the_Programmer). Perhaps because these days it feels more like Day of the Brogrammer or Night of the Living Programmer (perhaps depending on if your shop is Agile or not).
 
