@@ -14,4 +14,4 @@ I have one even older drive to check, which requires the usual hoop-jumping beca
 
 This mirrors a lot of how I seem to treat the information I've generated over the decades. In the past, I have deliberately purged notebooks full of writings in an effort to shed baggage and move on. But the old blog was different; it was always intended to be public. Personal, but very much intended for everyone to read.
 
-This is an unfortunately loss, if it is a loss. Perhaps I can salvage some of that from the Internet WayBack Machine? Honestly, I suspect only about 1% of the dataset I'm thinking of needs to be saved. It's not like the world is missing another Socrates' Rhetorics here.
+This is an unfortunately loss, if it is a loss. Perhaps I can salvage some of that from the Internet WayBack Machine? Honestly, I suspect only about 1% of the dataset I'm thinking of wants to be saved. It's not like the world is missing another Socrates' Rhetorics here.
