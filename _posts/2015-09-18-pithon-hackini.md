@@ -1,7 +1,7 @@
 ---
 date: "2015-09-18 14:37 -0400"
-published: false
-title: Pithon Hackini
+published: true
+title: Pithon Hacini
 category: daily
 tags: 
   - cocktails
@@ -9,8 +9,9 @@ tags:
   - hacking
 ---
 
+My daughter made a sign declaring when it is suitable for us to do some Python Hacking ("Pithon Hacini"):
 
-My daughter made a sign declaring when it is suitable for us to do some Python Hacking ("Pithon Hackini"):
+<a data-flickr-embed="true"  href="https://www.flickr.com/photos/clvrmnky/21337147928/in/datetaken-public/" title="Pithon Hacini"><img src="https://farm1.staticflickr.com/690/21337147928_5cb2d23e74.jpg" width="500" height="355" alt="Pithon Hacini"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
 Living with a 5-year old is often an exercise in time-management, leading us to experiment with various go/no-go signs related to when we need to do some work, or when TV is off limits, and so on. It appears she has internalized this mode of communication.
 
