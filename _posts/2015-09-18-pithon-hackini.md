@@ -9,11 +9,12 @@ tags:
   - hacking
 ---
 
-My daughter made a sign declaring when it is suitable for us to do some Python Hacking:
+
+My daughter made a sign declaring when it is suitable for us to do some Python Hacking ("Pithon Hackini"):
 
 Living with a 5-year old is often an exercise in time-management, leading us to experiment with various go/no-go signs related to when we need to do some work, or when TV is off limits, and so on. It appears she has internalized this mode of communication.
 
-We decided this ought to be a cocktail of some sort. We decided it needed to be a classic 1920s martini, with a twist. Well, not a "twist" because that isn't classic. _Anyway_, we give you...
+We decided this ought to be a cocktail of some sort, and it needed to be a classic 1920s martini, with a twist. Well, not a "twist" because that isn't classic. _Anyway_, we give you...
 
 The "Dirty Hacktini":
 
