@@ -1,6 +1,6 @@
 ---
 date: "2015-09-18 14:53 -0400"
-published: false
+published: true
 title: On _issing Dat_
 category: "site-info"
 tags: 
