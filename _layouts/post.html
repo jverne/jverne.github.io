@@ -14,16 +14,16 @@ layout: default
 		<!-- post metadata -->
 		<hgroup class="w3-margin-8">
 		<ul class="w3-ul w3-tiny w3-theme-light w3-card">
-		<li><i class="fa fa-link w3-small"></i>
+		<li><i class="fa fa-link"></i>
 			<a title="Permalink to '{{ page.title }}'"
 			href="{{ page.url }}">{{ page.title }}</a></li>
 		{% if page.categories != empty %}
-		<li><i class="fa fa-sitemap w3-small"></i> {% for cat in page.categories %}
+		<li><i class="fa fa-sitemap"></i> {% for cat in page.categories %}
 			<a title="See all posts in category '{{ cat }}'" href="/categories/#{{ cat }}">{{ cat }}</a> {% endfor %}</li>
 		{% endif %}
 		<li>{% assign tags = page.tags | sort %}
 			{% for tag in tags %}
-			<i class="fa fa-tag w3-small"></i>
+			<i class="fa fa-tag"></i>
 			<a title="See all posts tagged '{{ tag }}'"
 			href="/tags/#{{ tag }}">{{ tag | downcase }}</a>
 			{% endfor %}</li>
