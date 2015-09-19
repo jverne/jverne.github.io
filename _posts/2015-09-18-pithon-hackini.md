@@ -10,7 +10,8 @@ tags:
 ---
 
 
-My daughter made a sign declaring when it is suitable for us to do some Python Hacking ("Pithon Hacini"):
+
+My daughter made a sign declaring when it is suitable for us to do some [Python Hacking]({% post_url 2015-08-27-learning-python-like-a-5-year-old %}) ("Pithon Hacini"):
 
 <a data-flickr-embed="true"  href="https://www.flickr.com/photos/clvrmnky/21337147928/in/datetaken-public/" title="Pithon Hacini"><img src="https://farm1.staticflickr.com/690/21337147928_5cb2d23e74.jpg" width="500" height="355" alt="Pithon Hacini"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
