@@ -13,9 +13,10 @@ tags:
   - ROS
 ---
 
+
 The nostaglic soundtrack at this coffee shop is strangely soothing.
 
-I'm pretending to work while Robert Plant's solo offerings give way to Boston's "More than a Feeling", and a crowd of nice slavic ladies raucously catch up at the same shared table. The ladies are also strangely soothing.
+I'm pretending to work while Robert Plant's solo offerings give way to Boston's "More than a Feeling" and then Van Halen's "Panama", and a crowd of nice slavic ladies raucously catch up at the same shared table. The ladies are also strangely soothing.
 
 The idea is to change my surroundings in order to get some busy-work done, or at least started. The intention:
 - Run through some Java coding interview stuff for my call with [REDACTED] this week
