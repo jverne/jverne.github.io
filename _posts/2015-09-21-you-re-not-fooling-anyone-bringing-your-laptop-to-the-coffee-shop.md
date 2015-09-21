@@ -1,6 +1,6 @@
 ---
 date: "2015-09-21 14:56 -0400"
-published: false
+published: true
 title: "You're Not Fooling Anyone Bringing Your Laptop to the Coffee Shop"
 category: daily
 tags: 
