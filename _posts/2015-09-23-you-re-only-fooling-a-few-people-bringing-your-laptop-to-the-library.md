@@ -1,6 +1,6 @@
 ---
 date: "2015-09-23 12:16 -0400"
-published: false
+published: true
 title: "You're Only Fooling a Few People Bringing Your Laptop to the Library"
 category: daily
 tags: 
