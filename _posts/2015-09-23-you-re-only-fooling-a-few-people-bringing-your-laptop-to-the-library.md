@@ -19,7 +19,7 @@ This whole coding interview is a tricky thing, though. My feeling is that I don'
 
 <a name="more"></a>
 
-![Webcomic by Jason Heeris](http://twitpic.com/dj27dh "This Is Why You Shouldn't Interrupt a Programmer")
+In real life [it's more like this](http://heeris.id.au/2013/this-is-why-you-shouldnt-interrupt-a-programmer/).
 
 I'm pretty sure I "think like a computer scientist", but my sort of computer science is a little more ad hoc, and grounded in hackery as much as beautiful code and math. I mostly used hacking as a gateway drug to code and math. I've also jumped around a lot over the years, and as a true generalist I've placed more importance on grokking frameworks and business needs over deep algorithmic understanding.
 
