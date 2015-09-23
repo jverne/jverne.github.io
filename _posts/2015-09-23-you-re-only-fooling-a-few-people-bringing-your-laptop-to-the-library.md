@@ -22,10 +22,8 @@ This whole coding interview is a tricky thing, though. My feeling is that I don'
 
 ![Webcomic by Jason Heeris](http://twitpic.com/dj27dh "This Is Why You Shouldn't Interrupt a Programmer")
 
-I'm pretty sure I "think like a computer scientist", but my sort of computer science is a little more ad hoc, and grounded in hackery as much as beautiful code and math. I mostly used hacking as a gateway drug to code and math.
+I'm pretty sure I "think like a computer scientist", but my sort of computer science is a little more ad hoc, and grounded in hackery as much as beautiful code and math. I mostly used hacking as a gateway drug to code and math. I've also jumped around a lot over the years, and as a true generalist I've placed more importance on grokking frameworks and business needs over deep algorithmic understanding.
 
-Coming into it cold while being stared at by an engineer potentially as grumpy as me is an exercise in irony.
-
-So, I'm trying to just get into the pair-programming mindset.
+So, coming into this cold while being stared at by an engineer potentially as grumpy as me is a bit of a challenge. (And offers no small amount of irony.) So, I'm trying to just get into the pair-programming mindset.
 
 I just hope I'm not going to be implementing yet another hashset or LRU cache in Java.
