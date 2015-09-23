@@ -9,7 +9,6 @@ tags:
   - computer science
 ---
 
-
 In an effort to remind myself how to focus after quite a lazy summer, I am at the wonderful new KPL stealing wi-fi and prepping for Java interviews. I've sort of taken the summer off, and while I've written and studied Java a little (taking a Java 8 lambda course, for example) I've been mostly learning Python or messing about with Linux, NQC, and LEGO.
 
 (As an aside, how can people stand interfaces that whistle, chime, and others announce _every single operation_? There is a woman next to me who is using some tiny keyboard-and-ipad combination that is _literally_ making a different noise on every keystroke.)
