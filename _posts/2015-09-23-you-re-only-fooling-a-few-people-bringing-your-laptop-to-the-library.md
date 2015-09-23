@@ -9,6 +9,7 @@ tags:
   - computer science
 ---
 
+
 In an effort to remind myself how to focus after quite a lazy summer, I am at the wonderful new KPL stealing wi-fi and prepping for Java interviews. I've sort of taken the summer off, and while I've written and studied Java a little (taking a Java 8 lambda course, for example) I've been mostly learning Python or messing about with Linux, NQC, and LEGO.
 
 (As an aside, how can people stand interfaces that whistle, chime, and others announce _every single operation_? There is a woman next to me who is using some tiny keyboard-and-ipad combination that is _literally_ making a different noise on every keystroke.)
@@ -16,6 +17,8 @@ In an effort to remind myself how to focus after quite a lazy summer, I am at th
 So, I'm out of practice thinking like a working Java coder.
 
 This whole coding interview is a tricky thing, though. My feeling is that I don't come across very well in such interviews, mostly because unless I'm in the moment looking at a specific problem, I forget exactly what I did, or how I went about it. I just don't solve problems and approach algorithms like I was taught in class.
+
+<a name="more"></a>
 
 ![Webcomic by Jason Heeris](http://twitpic.com/dj27dh "This Is Why You Shouldn't Interrupt a Programmer")
 
