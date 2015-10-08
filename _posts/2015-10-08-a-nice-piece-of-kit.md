@@ -1,6 +1,6 @@
 ---
 date: "2015-10-08 14:57 -0400"
-published: false
+published: true
 title: A Nice Piece of Kit
 category: electronics
 tags: 
@@ -9,6 +9,7 @@ tags:
   - kits
   - radios
 ---
+
 
 So, apparently [Heathkit](https://en.wikipedia.org/wiki/Heathkit) lives again, which creates such a feeling of must-have nostalgia for me, it's hard to convince myself not to buy this [TRF AM radio](https://shop.heathkit.com/shop/product/explorer-jr-trf-am-radio-receiver-kit-black-case-gr-150-bk-16) right _now_.
 
