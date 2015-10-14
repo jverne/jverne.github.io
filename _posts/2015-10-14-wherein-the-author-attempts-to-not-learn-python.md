@@ -1,6 +1,6 @@
 ---
 date: "2015-10-14 10:25 -0400"
-published: false
+published: true
 title: Wherein the Author Attempts to not Learn Python
 category: coding
 tags: 
@@ -9,9 +9,12 @@ tags:
   - learning
 ---
 
+
 I recently ran across [an article discussing strategies for learning a new computer language](http://rob.conery.io/2015/10/06/how-to-learn-a-new-programming-language-while-maintaining-your-day-job-and-still-being-there-for-your-family/) (while still having a life) that was both inspiring and a little depressing.
 
 Inspiring, because I recognized many of the techniques the authors uses to bootstrap learning a new language: we both have a similar approach, where we grok enough of the docs and READMES to get a purchase, and build from there. This can be a very good way of iteratively building up skill while side-stepping inormaiton overload. Experience has taught me that I do not do well trying to sip from a firehose, and I'm at my best taking little the smallest sips.
+
+<a name="more"></a>
 
 Java, C++, and C were all crash courses for me: I spent all my free time at work, school, or home thinking about, or reading about, or actually coding. But I've also learned enough Perl and Lua to get by (and get hired) as a background task.
 
