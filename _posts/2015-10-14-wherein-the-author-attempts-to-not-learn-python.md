@@ -10,6 +10,7 @@ tags:
 ---
 
 
+
 I recently ran across [an article discussing strategies for learning a new computer language](http://rob.conery.io/2015/10/06/how-to-learn-a-new-programming-language-while-maintaining-your-day-job-and-still-being-there-for-your-family/) (while still having a life) that was both inspiring and a little depressing.
 
 Inspiring, because I recognized many of the techniques the authors uses to bootstrap learning a new language: we both have a similar approach, where we grok enough of the docs and READMES to get a purchase, and build from there. This can be a very good way of iteratively building up skill while side-stepping inormaiton overload. Experience has taught me that I do not do well trying to sip from a firehose, and I'm at my best taking little the smallest sips.
@@ -32,4 +33,4 @@ It seems to me that maybe I ought to find the itch first, and then see which too
 
 Then again, I am still pretty good at short, intense learning sessions. Maybe the key is to try and converge some of those interests and hobbies so they reinforce each other. I mean, there is an obvious connection between robotics and Python. And both of these could lead to actual employment doing both in this town. So those reinforce each other. [SDR](http://www.arrl.org/software-defined-radio), Amateur Radio, and Python are also pretty commonly found together. Python and Quality Time with my Kid is still a thing.
 
-Uh. Ok. Apparently, I just still concentrate on Python. Maybe I _will_ schedule time in my calendar to work on a Python project.
+Uh. Ok. Apparently, I should just continue to concentrate on Python. Maybe I _will_ schedule time in my calendar to work on a Python project.
