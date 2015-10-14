@@ -1,6 +1,6 @@
 ---
 date: "2015-10-10 03:25 -0400"
-published: true
+published: false
 title: "In Cupertino, Laptop Replaces You"
 category: daily
 tags: 
