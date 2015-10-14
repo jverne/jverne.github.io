@@ -9,9 +9,10 @@ tags:
   - learning
 ---
 
+
 I recently ran across [an article discussing strategies for learning a new computer language](http://rob.conery.io/2015/10/06/how-to-learn-a-new-programming-language-while-maintaining-your-day-job-and-still-being-there-for-your-family/) (while still having a life) that was both inspiring and a little depressing. I agree that success at something as mushy and large as "learn a new computer language" is best approached as a "series of little wins".
 
-Inspiring, because I recognized many of the techniques the authors uses to bootstrap learning a new language: we both have a similar approach, where we grok enough of the docs and READMES to get a purchase, and build from there. This can be a very good way of iteratively building up skill while side-stepping inormaiton overload. Experience has taught me that I do not do well trying to sip from a firehose, and I'm at my best taking little the smallest sips.
+Inspiring, because I recognized many of the techniques the authors uses to bootstrap learning a new language: we both have a similar approach, where we grok enough of the docs and READMES to get a purchase, and build from there. This can be a very good way of iteratively building up a new skill while side-stepping information overload. Experience has taught me that I do not do well trying to sip from a firehose, and I'm at my best taking little the smallest sips.
 
 <a name="more"></a>
 
