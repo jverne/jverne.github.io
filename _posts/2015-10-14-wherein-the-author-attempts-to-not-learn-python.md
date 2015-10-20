@@ -31,6 +31,6 @@ My latest crush is [Groovy](http://www.groovy-lang.org/), yet another JVM langua
 
 It seems to me that maybe I ought to find the itch first, and then see which tools scratch it best. Perhaps that's the thing: I don't have much itch lately. Honestly, I may just need a new job that requires me to drop everything and learn something new so I can immediately apply what I know.
 
-Then again, I am still pretty good at short, intense learning sessions. Maybe the key is to try and converge some of those interests and hobbies so they reinforce each other. I mean, there is an obvious connection between robotics and Python. And both of these could lead to actual employment doing both in this town. So those reinforce each other. [SDR](http://www.arrl.org/software-defined-radio), Amateur Radio, and Python are also pretty commonly found together. Python and Quality Time with my Kid is still a thing.
+Then again, I am still pretty good at short, intense learning sessions. Maybe the key is to try and converge some of those interests and hobbies so they reinforce each other. I mean, there is an obvious connection between robotics and Python. And both of these could lead to actual employment doing either in this town. So those reinforce each other. [SDR](http://www.arrl.org/software-defined-radio), Amateur Radio, and Python are also pretty commonly found together. Python and Quality Time with my Kid is still a thing.
 
 Uh. Ok. Apparently, I should just continue to concentrate on Python. Maybe I _will_ schedule time in my calendar to work on a Python project.
