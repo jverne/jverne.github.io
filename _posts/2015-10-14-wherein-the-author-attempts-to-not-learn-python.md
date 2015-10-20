@@ -17,7 +17,7 @@ Inspiring, because I recognized many of the techniques the authors uses to boots
 
 <a name="more"></a>
 
-Java, C++, and C were all crash courses for me: I spent all my free time at work, school, or home thinking about, or reading about, or actually coding. But I've also learned enough Perl and Lua to get by (and get hired) as a background task.
+Java, C++, and C were all crash courses for me: I spent all my free time at work, school, or home thinking about, or reading about, or actually coding the language. But I've also learned enough Perl, Lua, and Ruby to get by (and get hired) as a [Pragmatic](https://pragprog.com/) learning background task while busy with other stuff.
 
 Fast-forward a few years, though, and I'm less inclined (and less able) to successfully negotiate these total submersions in something. It's not _just_ that I have a life (of a sort), and not _just_ that I have more things vying for my attention. I'm also less able to stay interested at this level. There seems to be a finer balance (or perhaps I'm more aware of it now) of full-on submersion and idle musings.
 
