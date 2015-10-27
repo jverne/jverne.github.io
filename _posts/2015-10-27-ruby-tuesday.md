@@ -10,8 +10,6 @@ tags:
   - OS X
 ---
 
-
-
 On Monday I had a meeting, and today (Tuesday) I blew the space-dust off of my copy of the [Pick-axe Book](https://pragprog.com/book/ruby/programming-ruby) and, Crom save me, re-re-reinstall [Ruby On Rails](http://rubyonrails.org/) on my lappy.
 
 These two things are tangentially related, of course, and this will be discussed in a follow-up. But, since I'm in a mood to Learn All The Languages, I may as well refresh my L33t Ruby Skillz while I'm at it.
@@ -24,4 +22,4 @@ After an hour or so I have managed to successfully invoke `rails new ...` and ge
 
 I don't even remember exactly what I did, but it involved much custom tweaking based on experimentation and reading StackOverflow articles. Be wary of anyone who says "all you have to do is ..." regarding this! I might still have a weird problem where some of the "shimmed" rbenv executables overlap with the local copy of the Ruby Gem executables I have in `~/bin`. It's still very much a disaster, but a very slow-moving one.
 
-I'll have to sit down and sort out how to rationalize the stuff in `~/.rbenv`, `~/.gemrc`, and `~/.gem` at some point, I'm _rawther_ sure.
+I'll have to sit down and sort out how to rationalize the stuff in `.rbenv`, `.gemrc`, and `.gem` at some point, I'm _rawther_ sure.
