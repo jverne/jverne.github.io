@@ -10,13 +10,14 @@ tags:
   - OS X
 ---
 
+
 On Monday I had a meeting, and today (Tuesday) I blew the space-dust off of my copy of the [Pick-axe Book](https://pragprog.com/book/ruby/programming-ruby) and, Crom save me, re-re-reinstall [Ruby On Rails](http://rubyonrails.org/) on my lappy.
 
 These two things are tangentially related, of course, and this will be discussed in a follow-up. But, since I'm in a mood to Learn All The Languages, I may as well refresh my L33t Ruby Skillz while I'm at it.
 
 <a name="more"></a>
 
-But (as [Eloise](http://www.eloisewebsite.com/) would say) _OH MY LORD_, did the OS X 10.11 upgrade totally **wreck** everything to do with my RoR and Jekyll development setup! What a total and complete mess. This is even better than that time they updated the C++ compiler to Clang without warning in a point release.
+But (as [Eloise](http://www.eloisewebsite.com/) would say) _oh, my Lord_, did the OS X 10.11 upgrade totally **wreck** everything to do with my RoR and Jekyll development setup! What a total and complete mess. This is even better than that time they updated the C++ compiler to Clang without warning in a point release.
 
 After an hour or so I have managed to successfully invoke `rails new ...` and get a working demo, and the Jekyll bundle that drives the local version of this blog is, once again, working. I'm sure I'll find more as I go along.
 
