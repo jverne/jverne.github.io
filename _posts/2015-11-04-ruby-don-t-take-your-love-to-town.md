@@ -11,9 +11,12 @@ tags:
 ---
 
 
+
 As I've alluded to in [an earlier posting]({% post_url 2015-10-27-ruby-tuesday %}) I've switched from [Pragmatically](https://pragprog.com/the-pragmatic-programmer/extracts/tips) learning Python (again!) to refreshing my Ruby and Rails skills (again!). There was a method to this madness; as of today I have accepted a position as a [Ruby on Rails](http://rubyonrails.org/) developer, working for a growing startup here in Sleepy University Town.
 
-This is all kinds of good news! First, it's good to be gainfully employed, of course. But, probably more importantly, this finally looks like an excellent fit for my rather unique set of skills. This might be the first time that a set of interviews actually required me to answer questions that make sense for someone with over 15 years of experience as an enterprise developer. And this company, like many startups, likes to get particularly close to their customers, something I am really good at doing.
+This is all kinds of good news! First, it's good to be gainfully employed, of course. But, probably more importantly, this finally looks like an excellent fit for my rather unique set of skills. This might be the first time that a set of interviews actually required me to answer questions that make sense for someone with over 15 years of experience as an enterprise developer. And this company, like many startups, likes to get particularly close to their customers, something I am _really_ good at doing.
+
+<a name="more"></a>
 
 I'm also going to have to get good at reading and hacking Ruby, really fast. I'll be immersing myself into a pretty well established, multi-repo Rails suite over the next few months. Not to mention the usual new-hire stuff like peer names, local development processes, code reviews, and so on. I will be expected to ramp up, and quick, as this is a senior developer position.
 
