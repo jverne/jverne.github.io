@@ -11,7 +11,8 @@ tags:
 ---
 
 
-Since I'm a Ruby and Rails developer now (and I'm told that these two things are distinct and separate!) I've also been reviewing and practicing Rails development with RoR-centric IDEs. Ideally I want to know which one I like enough to use at my new job.
+
+Since I'm a Ruby and Rails developer now (and I'm told that these two things are distinct and separate!) I've also been reviewing and practicing Ruby development with Rails-centric IDEs. Ideally I want to know which one I like enough to use at my new job.
 
 Since I'm a big [Sublime Text](http://www.sublimetext.com/) fan, my first choice was using it as a lightweight IDE. And it is certainly adequate for this purpose. I had to keep switching back from full-screen to a zsh terminal, though, to do the stuff that developers like to do at a POSIX shell, and this was annoying. I tried some of the plugins that offer basic shell access with little success. And, I have to admit, one of my favourite things about Eclipse is how I can climb inheritence trees when trying to figure out code.
 
