@@ -1,6 +1,6 @@
 ---
 date: "2015-11-05 14:59 -0500"
-published: false
+published: true
 title: Beware the IDEs of November
 category: work
 tags: 
