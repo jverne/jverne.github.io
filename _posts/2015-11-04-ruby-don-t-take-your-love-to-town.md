@@ -10,9 +10,7 @@ tags:
   - python
 ---
 
-
-
-As I've alluded to in [an earlier posting]({% post_url 2015-10-27-ruby-tuesday %}) I've switched from [Pragmatically](https://pragprog.com/the-pragmatic-programmer/extracts/tips) learning Python (again!) to refreshing my Ruby and Rails skills (again!). There was a method to this madness; as of today I have accepted a position as a [Ruby on Rails](http://rubyonrails.org/) developer, working for a growing startup here in Sleepy University Town.
+As I've alluded to in [an earlier posting]({% post_url 2015-10-27-ruby-tuesday %}) I've switched from [Pragmatically](https://pragprog.com/the-pragmatic-programmer/extracts/tips) learning Python (again!) to refreshing my Ruby and Rails skills (again!). There was a method to this madness; I have accepted a position as a [Ruby on Rails](http://rubyonrails.org/) developer, working for a growing startup here in Sleepy University Town.
 
 This is all kinds of good news! First, it's good to be gainfully employed, of course. But, probably more importantly, this finally looks like an excellent fit for my rather unique set of skills. This might be the first time that a set of interviews actually required me to answer questions that make sense for someone with over 15 years of experience as an enterprise developer. And this company, like many startups, likes to get particularly close to their customers, something I am _really_ good at doing.
 
