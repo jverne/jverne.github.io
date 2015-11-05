@@ -1,6 +1,6 @@
 ---
 date: "2015-11-04 11:29 -0500"
-published: false
+published: true
 title: "Ruby, Don't Take Your Love to Town"
 category: work
 tags: 
