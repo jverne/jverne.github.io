@@ -1,6 +1,6 @@
 ---
 date: "2015-11-06 21:16 -0500"
-published: false
+published: true
 title: National Girls Learning Code Day
 category: daily
 tags: 
@@ -20,4 +20,4 @@ Because I'm no HTML/CSS expert. I "designed" this site, insofar as I wrote all t
 
 Even better is that I'm armed with the experience of teaching Python to a 5-year old (who has recently caught wind of this awesome thing called "Ruby" that she has decided is the Best Thing Ever so I guess I better figure out Ruby turtle graphics pretty quick) so I expect this is going to be a pretty awesome day.
 
-Here's to community building.
+Here's to inclusive community building.
