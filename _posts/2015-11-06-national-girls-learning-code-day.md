@@ -10,7 +10,7 @@ tags:
   - learning
 ---
 
-There was a local Twitter call-out for "mentors" to assist with teaching girls, age 8-13, in learning HTML and CSS for [National Girls Learning Code Day](https://www.eventbrite.ca/e/kitchener-waterloo-national-girls-learning-code-day-for-girls-ages-8-13-their-parentguardian-tickets-18338143882). So, I thought, "why not" and volunteered my time, and now it looks like I'm showing up at 10AM tomorrow to act as a sort of web coding expert.
+There was a local Twitter call-out for "mentors" to assist with teaching girls, age 8-13, in learning HTML and CSS for [National Girls Learning Code Day](https://www.eventbrite.ca/e/kitchener-waterloo-national-girls-learning-code-day-for-girls-ages-8-13-their-parentguardian-tickets-18338143882). So, I thought, "why not", and volunteered my time; now it looks like I'm showing up at 10AM tomorrow to act as a sort of web coding expert.
 
 There was a brief moment when I panicked about my spotty HTML and CSS experience, and started to plan a crash course review of HTML 5 and CSS selectors and...
 
