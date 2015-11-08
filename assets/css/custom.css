@@ -16,3 +16,7 @@
 	font-size: x-small;
 	vertical-align: super;
 }
+
+html {
+	max-width: 720px;
+}
