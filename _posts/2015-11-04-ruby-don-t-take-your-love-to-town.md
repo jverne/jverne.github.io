@@ -1,6 +1,6 @@
 ---
 date: "2015-11-04 11:29 -0500"
-published: true
+published: false
 title: "Ruby, Don't Take Your Love to Town"
 category: work
 tags: 
@@ -9,6 +9,7 @@ tags:
   - RoR
   - python
 ---
+
 
 As I've alluded to in [an earlier posting]({% post_url 2015-10-27-ruby-tuesday %}) I've switched from [Pragmatically](https://pragprog.com/the-pragmatic-programmer/extracts/tips) learning Python (again!) to refreshing my Ruby and Rails skills (again!). There was a method to this madness; I have accepted a position as a [Ruby on Rails](http://rubyonrails.org/) developer, working for a growing startup here in Sleepy University Town.
 
