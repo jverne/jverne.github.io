@@ -1,10 +1,11 @@
 ---
 date: "2016-01-21 22:00 -0500"
-published: false
+published: true
 title: Update Roundup Clip Show
 category: daily
 tags: null
 ---
+
 
 I authored an entry on [my new camera](http://ricoh-imaging.ca/en/products/cameras/Q-S1/), but Prose.io ated it. Anyway, I recently got a sweet deal on a Pentax Q-S1, so I went for it. I'll probably talk about this more in the future, once I've had a chance to play with it more.
 
