@@ -1,6 +1,6 @@
 ---
 date: "2016-02-17 20:09 -0500"
-published: false
+published: true
 title: "Learning Astable Multivibrators Like a 5-year Old"
 category: electronics
 tags: 
@@ -10,7 +10,8 @@ tags:
   - bitscope
 ---
 
-My daughter finds my basement shack fascinating, mostly because it's full of interesting junk she can wade through. The other day she saw my collection of electronics parts and couldn't get them out of her mind. Which is to be expected. I mean, [have you seen electronics parts](https://duckduckgo.com/?q=electronics+parts&t=ffab&iax=1&ia=images)? They look like robot jewelry, which (now that I think about it) is 5-year old catnip.
+
+My daughter finds my basement shack fascinating, mostly because it's full of interesting junk she can wade through. The other day she saw my collection of electronics parts and couldn't get them out of her mind. Which is to be expected. I mean, [have you seen electronics parts](https://duckduckgo.com/?q=electronics+parts&t=ffab&iax=1&ia=images)? They look like robot jewelry, which (now that I think about it) is like catnip to a 5-year old.
 
 So, I promised I'd show her a few things that you can do with the parts. I _know_ she had visions of robots wandering around answering to her commands. But, I figured it would be an education in bottom-up design to just, you know, flash an LED. So, I collected a [555 timer](https://en.wikipedia.org/wiki/555_timer_IC), an LED, and a solderless bread-board and showed her how _boring_ it is to debug a circuit. It had been awhile since I made a multivibrator circuit, so I grabbed the first 555 datasheet I found on the internet and went for it (thanks, TI!)
 
