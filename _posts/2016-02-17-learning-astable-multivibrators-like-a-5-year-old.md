@@ -3,11 +3,7 @@ date: "2016-02-17 20:09 -0500"
 published: true
 title: "Learning Astable Multivibrators Like a 5-year Old"
 category: electronics
-tags: 
-  - 555
-  - kids
-  - circuits
-  - bitscope
+tags: [kids, '555', circuits]
 ---
 
 

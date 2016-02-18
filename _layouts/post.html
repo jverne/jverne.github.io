@@ -17,7 +17,7 @@ layout: default
 		<li><i class="fa fa-link"></i>
 			<a title="Permalink to '{{ page.title }}'"
 			href="{{ page.url }}">{{ page.title }}</a></li>
-		{% if page.categories != nil %}
+		{% if page.categories != empty %}
 		<li><i class="fa fa-sitemap"></i> {% for cat in page.categories %}
 			<a title="See all posts in category '{{ cat }}'" href="/categories/#{{ cat }}">{{ cat }}</a> {% endfor %}</li>
 		{% endif %}
