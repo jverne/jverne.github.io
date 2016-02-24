@@ -3,8 +3,13 @@ date: "2016-01-21 22:00 -0500"
 published: true
 title: Update Roundup Clip Show
 category: daily
-tags: null
+tags: 
+  - electronics
+  - embedded
+  - photography
+  - work
 ---
+
 
 
 
