@@ -9,6 +9,6 @@ tags:
 ---
 
 
-If you like retro-computing (and I know you do) maybe you might like to see a Retrocomputing StackExchange site?
+If you like retro-computing (and I know you do) maybe you might like to see a Retrocomputing [StackExchange](https://stackexchange.com/) site?
 
 Such a site [is being proposed right now](http://area51.stackexchange.com/proposals/94441/retrocomputing?referrer=M-YAwndOwsOoX3hc-nnfLw2).
