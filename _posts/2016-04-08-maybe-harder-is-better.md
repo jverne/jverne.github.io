@@ -8,6 +8,12 @@ Tags:
   - PIC
   - Microchip
   - IoT
+category: "embedded-systems"
+tags: 
+  - Tessel
+  - PIC
+  - Microchip
+  - IoT
 ---
 
 
