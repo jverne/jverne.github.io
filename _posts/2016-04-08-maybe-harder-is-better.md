@@ -17,6 +17,7 @@ tags:
 ---
 
 
+
 The Internet of Things. It is all around you. It is there when you pay your taxes. It is there when you take out your neighbour's trash. It is made up of cloud-based web apps and Node.js powered interfaces.
 
 I have a few colleagues that are honest-to-goodness embedded systems developers, and they all without fail absolutely hate these newer embedded toolchains. Most embedded developers I've known may have played with IDEs over the years, but eventually go back to plain old POSIX command line development. _Maybe_ they choose a fancy text editor that can run Make or Bitbake for them, but that's about it. Other than commercial [ICE](https://en.wikipedia.org/wiki/In-circuit_emulation) products (sometimes a necessary evil) most of these folks prefer to never see a GUI. For many pros a web-based or Javascript based toolchain is an anathema.
@@ -42,3 +43,7 @@ Cloud-based IDE](http://hackaday.com/2016/02/15/microchip-unveils-online-mplab-i
 My point isn't that everything sucks (though it does, sort of) but rather that if this was a traditional toolchain I might have had a fighting chance. But, because these new models are based on stuff that is at a higher level of abstraction (i.e., the web, or USB mounts, or monolithic Javascript engines) my usual ways of solving these problems are not as useful.
 
 And the end result is the same: as a weekend warrior, the thought of wrestling the interface or toolchain often makes me want to choose a different hobby.
+
+***
+
+Well, it only took a few hours of mucking about, but I sorted out the Tessel 2 Node.js problem, the follow-on USB driver problem, the connecting to Wi-Fi problem, and was able to update the device. It is now happily blinking green and blue LEDs.
