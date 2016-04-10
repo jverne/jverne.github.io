@@ -10,6 +10,7 @@ tags:
 ---
 
 
+
 The only constant is change.
 
 So, the wheels have turned ever so slowly, and now it looks like I am to be an Android application developer, at least for the next few months.
@@ -18,7 +19,7 @@ This new position I took recently has, so far, been the usual tour through Java 
 
 <a name="more"></a>
 
-As a result, this has been a tricky week for me. I spent a few days ready the API docs (ours and theirs) and figuring out what API level we are supporting, and figuring out how to make Eclipse do that. This last part is a challenge because it looks like The Google have deprecated their Eclipse ADT plug-in in favour of their own IntelliJ Idea Android Studio. However, all my examples and demos are Eclipse-ADT-based. It still works for the time being, but there is a decision to be made there. I also took a few online courses related to Android and Android development, if only because I've never really used _or_ coded an Android device.
+As a result, this has been a tricky week for me. I spent a few days reading the API docs (ours and theirs) and figuring out what API level we are supporting, and figuring out how to make Eclipse do Android things. This last part is a challenge because it looks like The Google have deprecated their Eclipse ADT plug-in in favour of their own IntelliJ Idea Android Studio. However, all my examples and demos are Eclipse-ADT-based. It still works for the time being, but there is a decision to be made there. I also took a few online courses related to Android and Android development, if only because I've never really used _or_ coded an Android device.
 
 (Truth be told, I'm still not a huge fan of Android as a mobile UI. It works fine enough for what I'm doing, but I cannot imagine replacing my BlackBerry with any Android device. I find the user experience just so odd and clunky. But I digress.)
 
