@@ -1,7 +1,12 @@
 ---
 date: "2016-04-22 10:04 -0400"
 published: false
-title: "Everything I know about electronics I learned from "
+title: Everything I know about electronics I learned from Mims
+tags: 
+  - electronics
+  - "crowd-source"
+  - art
+category: electronics
 ---
 Stop reading this right now and go throw money at the [Circuit Classics crowd-funding effort](https://www.crowdsupply.com/star-simpson/circuit-classics). Throw _all_ your money at them.
 
