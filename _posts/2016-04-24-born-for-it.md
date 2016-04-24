@@ -14,6 +14,8 @@ Over on Martin Fowler's site, [Birgitta Böckeler provides a nice introduction](
 
 This is a _very_ interesting synopsis of three scholarly looks at the history of computer programming from a gender perspective.
 
+<a name="more"></a>
+
 I've only skimmed this overview, but I really want to take the time to read at least one of the titles discussed. I particularly like the notion that "coder" was once a derogatory term, mostly reserved for the women initially hired to make early computers run.
 
 I also love the sweet irony that the rather academic fathers of general purpose computers didn't realize that the single most important aspect of computing wasn't going to be the hardware, but the software. I think this is something anyone can appreciate, even without considering the gendered aspect of the history.
