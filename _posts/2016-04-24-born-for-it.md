@@ -12,7 +12,7 @@ Over on Martin Fowler's site, [Birgitta Böckeler provides a nice introduction](
 
 > The stereotype of the socially-awkward, white, male programmer has been around for a long time. Although "diversity in tech" is a much discussed topic, the numbers have not been getting any better. On the contrary, a lot of people inside and outside of the IT industry still take it for granted that this stereotype is the natural norm, and this perception is one of the things that is standing in our way to make the profession more inclusive and inviting. So where does this image come from? Did the demographics of the world's programmer population really evolve naturally, because "boys just like computers more"? What shaped our perception of programmers? This text is about some possible explanations I found when reading about the history of computing.
 
-This is a _very_ interesting synopsis of three scholarly looks at the history of computer programming from a gender perspective.
+This is a _very_ interesting synopsis and overview of scholarly looks at the history of computer programming from a gender perspective.
 
 <a name="more"></a>
 
