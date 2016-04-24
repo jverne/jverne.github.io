@@ -1,6 +1,6 @@
 ---
 date: "2016-04-24 16:47 -0400"
-published: false
+published: true
 title: Born for it
 category: work
 tags: 
@@ -19,7 +19,3 @@ I've only skimmed this overview, but I really want to take the time to read at l
 I also love the sweet irony that the rather academic fathers of general purpose computers didn't realize that the single most important aspect of computing wasn't going to be the hardware, but the software. I think this is something anyone can appreciate, even without considering the gendered aspect of the history.
 
 The common refrain of some young women leaving computer science education early rang very true for me, as well. I've written elsewhere about a disasterous high school Career Day where the one and only Software Engineer basically convinced me that software wasn't for me. (Cue several years of wandering in the desert.) Even as a young man, there was a certain class and gender mechanism that did not include me, either. (I don't raise this to provide some contrary evidence for any arguments, but rather to indicate I've had the opportunity to grok the mechanisms at play here.)
-
-
-
-
