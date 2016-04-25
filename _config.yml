@@ -18,6 +18,8 @@ kramdown:
 excerpt_separator: <a name="more"></a>
 gems:
    - jekyll-redirect-from
+   - jemoji
+   - jekyll-sitemap
 
 # Jekyll Defaults
 defaults:
