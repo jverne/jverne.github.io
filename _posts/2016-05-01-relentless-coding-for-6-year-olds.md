@@ -1,6 +1,6 @@
 ---
 date: "2016-05-01 20:26 -0400"
-published: false
+published: true
 title: "Relentless Coding for 6-year Olds"
 tags: 
   - kickstarter
