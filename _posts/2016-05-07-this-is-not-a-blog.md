@@ -15,5 +15,9 @@ It's my content, make your own.
 
 Prolieration of larger social media sites has meant huge drop in comments anyway.
 
+Part of this is that I lost my old content.
+
 It's not my job.
+
+If this is not a blog, that's ok.
 
