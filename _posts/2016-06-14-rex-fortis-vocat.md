@@ -15,7 +15,7 @@ Then, for some reason, I decided to get [IBM PC-DOS](https://en.wikipedia.org/wi
 
 But for now, an almost-complete PC-DOS system. I haven't figured out the networking stuff yet, but it has CD-ROM support, DOSIdle so it doesn't burn up my Mac, the usual assortments of high/upper/confusing/WTF memory, and so on. I don't think networking will be that hard, but my Google-Fu is not finding the PCNet ethernet drivers that VirtualBox is emulating. So, for now I'm using sneaker-net.
 
-![PC-DOS running a Rexx program]({{site.baseurl}}/https://goo.gl/photos/gvzq6udLz1rbhgt58)
+![PC-DOS running a Rexx program](https://goo.gl/photos/gvzq6udLz1rbhgt58)
 
 Yeah. So, that's a [Rexx](https://en.wikipedia.org/wiki/Rexx) script being called via the command interpreter via a pseudo [hash-bang](https://en.wikipedia.org/wiki/Shebang_%28Unix%29) mechanism (think of `/* ... */` as the shebang line). There's a reason I liked to run _PC_-DOS instead of that other one.
 
