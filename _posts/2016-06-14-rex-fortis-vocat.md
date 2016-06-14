@@ -1,6 +1,6 @@
 ---
 date: '2016-06-14 15:38 -0400'
-published: false
+published: true
 title: Rex Fortis Vocat
 tags:
   - DOS
