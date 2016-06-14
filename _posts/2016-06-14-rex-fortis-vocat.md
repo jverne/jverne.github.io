@@ -20,3 +20,6 @@ But for now, an almost-complete PC-DOS system. I haven't figured out the network
 Yeah. So, that's a [Rexx](https://en.wikipedia.org/wiki/Rexx) script being called via the command interpreter via a pseudo [hash-bang](https://en.wikipedia.org/wiki/Shebang_%28Unix%29) mechanism (think of `/* ... */` as the shebang line). There's a reason I liked to run _PC_-DOS instead of that other one.
 
 What's going to bend your noodle is that I actually _paid_ for a copy of PC-DOS, lo, those many years ago. So, I'm _technically_ not pirating anything, matey.
+
+------
+Well, that was easy. Started the PCNet packet driver and ran `DHCP` from the [mTCP](http://www.brutman.com/mTCP/) project. I was even able to annoy some people on IRC.
