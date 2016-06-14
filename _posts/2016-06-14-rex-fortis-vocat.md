@@ -13,7 +13,7 @@ So, I'm home sick from work today and, as one does, I'm idly playing around with
 
 Then, for some reason, I decided to get [IBM PC-DOS](https://en.wikipedia.org/wiki/IBM_PC_DOS) 7.x/2000 working on [VirtualBox](https://www.virtualbox.org/). This is not for any particular reason, though I've occasionally needed a real DOS environment to mess about with [abandonware](https://en.wikipedia.org/wiki/Abandonware). So, this image may be put to good use one day.
 
-But for now, an almost-complete PC-DOS system. I haven't figured out the networking stuff yet, but it has CD-ROM support, DOSIdle so it doesn't burn up my Mac, the usual assortments of high/upper/confusing/WTF memory, and so on. I don't think networking will be that hard, but my Google-Fu is not finding the PCNet ethernet drivers that VirtualBox is emulating. So, for now I'm using sneaker-net.
+But for now, an almost-complete PC-DOS system. I haven't figured out the networking stuff yet, but it has CD-ROM support, loads [DOSidle](http://maribu.home.xs4all.nl/zeurkous/download/mirror/dosidle.html) so it doesn't burn up my Mac, the usual assortment of high/upper/confusing/WTF memory settings that DOS requires, and so on. I don't think networking will be that hard, but my Google-Fu is not finding the PCNet ethernet drivers that VirtualBox is emulating. So, for now I'm using sneaker-net.
 
 <a data-flickr-embed="true"  href="https://www.flickr.com/photos/clvrmnky/27674314215/in/datetaken-public/" title="PC-DOS 2000 on VirtualBox running Rexx"><img src="https://c8.staticflickr.com/8/7117/27674314215_fc8807cc6d.jpg" width="500" height="307" alt="PC-DOS 2000 on VirtualBox running Rexx"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
