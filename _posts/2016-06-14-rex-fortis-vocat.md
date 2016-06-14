@@ -1,7 +1,7 @@
 ---
 date: '2016-06-14 15:38 -0400'
 published: true
-title: Rex Fortis Vocat
+title: Rexx Fortis Vocat
 tags:
   - DOS
   - PC-DOS
