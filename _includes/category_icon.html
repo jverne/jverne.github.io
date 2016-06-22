@@ -20,4 +20,4 @@
 {% else %}
 	{% assign category_icon = 'folder-o' %}
 {% endcase %}
-{% unless include.category == null %} <a href="/categories/#{{ include.category }}" title="See all posts in '{{ include.category }}'">{% endunless %} <i class="fa fa-{{category_icon}} w3-{{include.iconsize}}"></i> {% unless include.category == null %}</a> {% endunless %}
+{% unless include.category == null %} <a href="/categories/#{{ include.category }}" title="See all posts in '{{ include.category }}'">{% endunless %}<i class="fa fa-{{category_icon}} w3-{{include.iconsize}}"></i>{% unless include.category == null %}</a> {% endunless %}
