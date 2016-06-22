@@ -1,6 +1,6 @@
 ---
 date: '2016-06-21 23:55 -0400'
-published: false
+published: true
 title: The Agony of Buying Power
 category: daily
 tags:
