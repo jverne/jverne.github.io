@@ -22,5 +22,6 @@
 {% endcase %}
 {% unless category == null %}
 <a href="/categories/#{{ category }}" title="See all posts in '{{ category }}'">{% endunless %}
-<i class="fa fa-{{category_icon}} w3-{{include.iconsize}}"></i>{% unless category == "" %}</a>
+<i class="fa fa-{{category_icon}} w3-{{include.iconsize}}"></i>
+{% unless category == null %}</a>
 {% endunless %}
