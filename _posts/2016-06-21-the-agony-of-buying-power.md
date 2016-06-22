@@ -25,4 +25,6 @@ I'd certainly use the bike regularly, and selling my current ride will _probably
 
 And, really, I'm not the kind of player that practices regularly enough to get much better than I am today. I do miss playing the bass, though, and hanging out on the porch knocking out some reggae or funk grooves sounds like the sort of summer fun I most appreciate.
 
+And then there's the question of whether to buy [another DSLR](http://en.nikon.ca/nikon-products/product/dslr-cameras/d750.html) or switch to a [nice mirrorless system](http://www.fujifilm.ca/products/digital_cameras/x/fujifilm_x_t1/) for everyday shooting, even though my old Nikon D80 is perfectly fine and my new phone takes pretty good pictures.
+
 What's a good consumer to do? I don't really _need_ any of these things, so there isn't some sort of professional reason to invest this sort of cash into a computer, guitar, or bicycle. This is definitely a lifestyle luxury buying choice, and I already have enough computers, guitars, and bicycles.
