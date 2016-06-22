@@ -19,7 +19,7 @@ As I like to shop for these things for a long time, I sort of put that research 
 
 And now I'm wondering if I shouldn't get an acoustic bass guitar instead. This is something I've wanted since well before [MTV Unplugged](https://en.wikipedia.org/wiki/MTV_Unplugged) made them what all the cool bassists played in the 90s. My research suggests that for about the same budget I could get a [Warwick Alien 4](http://www.warwickbass.com/en/Warwick---Products--Acoustic-Bass-Guitars--Alien-Acoustic--Warwick-Alien--4-string--Pictures.html) (because four strings is as high as I can count) which looks like a very nice piece of kit for unplugged noodling on the porch.
 
-Then I think that I'm not particularly happy with my commuter bike, and maybe I should see if I can get a [Brodie Section 8](http://www.brodiebikes.com/2016/bikes/section_8.php) (or similar) retrofitted with a [Shimano Alfine 11-Speed hub]http://sheldonbrown.com/alfine-11.html, which would definitely be in that same budget.
+Then I think that I'm not particularly happy with my commuter bike, and maybe I should see if I can get a [Brodie Section 8](http://www.brodiebikes.com/2016/bikes/section_8.php) (or similar) retrofitted with a [Shimano Alfine 11-Speed hub](http://sheldonbrown.com/alfine-11.html), which would definitely be in that same budget.
 
 I'd certainly use the bike regularly, and selling my current ride will _probably_ pay for the high-end hub I want. But I'm feel like I ought to do more hacking-for-fun, and maybe a new modern lappy will give me some more of that opportunity. Though, truth be told, if I really wanted to hack more, my Macbook works just fine as long as the keyboard doesn't just stop working (which does happens occasionally).
 
