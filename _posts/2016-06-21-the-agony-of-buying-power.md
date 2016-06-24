@@ -21,7 +21,7 @@ And now I'm wondering if I shouldn't get an acoustic bass guitar instead. This i
 
 Then I think that I'm not particularly happy with my commuter bike, and maybe I should see if I can get a [Brodie Section 8](http://www.brodiebikes.com/2016/bikes/section_8.php) (or similar) retrofitted with a [Shimano Alfine 11-Speed hub](http://sheldonbrown.com/alfine-11.html), which would definitely be in that same budget.
 
-I'd certainly use the bike regularly, and selling my current ride will _probably_ pay for the high-end hub I want. But I'm feel like I ought to do more hacking-for-fun, and maybe a new modern lappy will give me some more of that opportunity. Though, truth be told, if I really wanted to hack more, my Macbook works just fine as long as the keyboard doesn't just stop working (which does happens occasionally).
+I'd certainly use the bike regularly, and selling my current ride will _probably_ pay for the high-end hub I want. But I'm feeling like I ought to do more hacking-for-fun, and maybe a new modern lappy will give me some more of that opportunity. Though, truth be told, if I really wanted to hack more, my Macbook works just fine as long as the keyboard doesn't just stop working (which does happens occasionally).
 
 And, really, I'm not the kind of player that practices regularly enough to get much better than I am today. I do miss playing the bass, though, and hanging out on the porch knocking out some reggae or funk grooves sounds like the sort of summer fun I most appreciate.
 
