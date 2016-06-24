@@ -9,7 +9,7 @@ tags:
   - laptop
   - bass
 ---
-For a few months I've been doing a little research to decide if I'm going to replace the aging Macbook Pro that is my main development tool at home with a more modern lappy. The idea is to get something that runs a bit cooler, lighter, and longer on battery that I can use for general purpose hackery. As I've mentioned before, I think I've gotten about as much life out of this Macbook as I can reasonable expect, so I should probably replace it.
+For a few months I've been doing a little research to decide if I'm going to replace the aging Macbook Pro that is my main development tool at home with a more modern lappy. The idea is to get something that runs a bit cooler, lighter, and longer on battery that I can use for general purpose hackery. As I've mentioned before, I think I've gotten about as much life out of this Macbook as I can reasonably expect, so I should probably replace it.
 
 I have no particular interest in staying with a Mac, though it is a decent development box. But I can get all that with Linux these days. Sure, I'll have to resort to tinkering to get stuff to work, but this already happens with the Macbook regularly, so this is really shifting the problem around to a different flavour of tinkering. So, after learning what some of the new acronyms for computer equipment mean these days, I narrowed things down to a [Lenovo Carbon X1](http://shop.lenovo.com/ca/en/laptops/thinkpad/x-series/x1-carbon-4/), running some sort of Linux.
 
