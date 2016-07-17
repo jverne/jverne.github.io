@@ -1,6 +1,6 @@
 ---
 date: '2016-07-17 17:24 -0400'
-published: false
+published: true
 title: Groovy Android Rocks the Gradle
 category: work
 tags:
