@@ -1,6 +1,6 @@
 ---
 date: '2016-07-18 22:07 -0400'
-published: false
+published: true
 title: Art and Technology
 category: daily
 tags:
