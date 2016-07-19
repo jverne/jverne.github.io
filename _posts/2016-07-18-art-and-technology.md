@@ -19,7 +19,7 @@ I was also exposed to coding and hacking at a pretty early age, and at a time wh
 
 I mention this only to set the stage for an attempt at an explanation for why I think some of the artistic "maker" expressions I'm seeing are really interesting and worth noticing. As a kid who tried to _actually_ write _vers libre_ poetry in [Forth](https://www.forth.com/forth/), projects like the [1-Bit Symphony](http://1bitsymphony.com/) really resonate deeply with me. I mean, one of the artefacts is a poster-sized print of the AVR assembly code.
 
-Likewise, [I've already gushed]({% post_url 2016-04-22-everything-i-know-about-electronics %}) about [Circuit Classics](https://www.crowdsupply.com/star-simpson/circuit-classics) which captures a certian aesthetic that meshes well with a certain artistic sensibility; it isn't _just_ retro-nostalgia at work.
+Likewise, [I've already gushed]({% post_url 2016-04-22-everything-i-know-about-electronics %}) about [Circuit Classics](https://www.crowdsupply.com/star-simpson/circuit-classics) which captures an aesthetic that meshes well with a certain artistic sensibility; it isn't _just_ retro-nostalgia at work.
 
 And, recently, I ran across another art/music/tech collision in the form of an algorithmic exploration of techno entitled [Spicule](http://www.pledgemusic.com/projects/spicule) which I immediately identified as of a piece, spiritually, with these other projects I've mentioned.
 
