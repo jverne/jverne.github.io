@@ -15,7 +15,7 @@ I may be slightly sensitive to this as a Canadian of a Certain Age, of course. A
 
 (Yes, there is a _specifically_ Canadian body-horror œuvre. Long live the New Flesh.)
 
-I was also exposed to coding and hacking at a pretty early age, and at a time when such things were a little obscure and magical. I'd always had a natural affinity for pants-seat engineering, so it was natural that I'd be one of those people to whom computing, electronics, and robotics where a bit like catnip.
+I was also exposed to coding and hacking at a pretty early age, and at a time when such things were a little obscure and magical. I'd always had a natural affinity for pants-seat engineering, so it was natural that I'd be one of those people to whom computing, electronics, and robotics were a bit like catnip.
 
 I mention this only to set the stage for an attempt at an explanation for why I think some of the artistic "maker" expressions I'm seeing are really interesting and worth noticing. As a kid who tried to _actually_ write _vers libre_ poetry in [Forth](https://www.forth.com/forth/), projects like the [1-Bit Symphony](http://1bitsymphony.com/) really resonate deeply with me. I mean, one of the artefacts is a poster-sized print of the AVR assembly code.
 
