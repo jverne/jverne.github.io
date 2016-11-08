@@ -30,7 +30,7 @@ I was lucky, in that early on I also worked for a company that made POSIX tools 
 
 So, once I'd placed the order for this new laptop I started thinking ahead to how I was going to configure it for maximum coffee-shop hackery. And I came to a surprising (for me) conclusion.
 
-I'm probably __not__ going to install Linux on it, at least for now. I actually have very few bad things to say about Windows 10 as a development OS at work. And installing Linux on a laptop, and configuring it just right, and al that nonsense is just _boring_. Quite frankly, about 80% of what I need an OS to give me is a decent POSIX command-line, and it just so happens that [Windows 10 now offers a fairly useful Linux style command line environment](https://msdn.microsoft.com/en-us/commandline/wsl/about).
+I'm probably __not__ going to install Linux on it, at least for now. I actually have very few bad things to say about Windows 10 as a development OS at work. And installing Linux on a laptop, configuring it just right, and all that nonsense is just _boring_. Quite frankly, most of what I need an OS to give me is a decent POSIX command-line, and it just so happens that [Windows 10 now offers a fairly useful Linux style command line environment](https://msdn.microsoft.com/en-us/commandline/wsl/about).
 
 That's right. I'm a [switcher](https://www.apple.com/pr/library/2002/06/10Apple-Launches-Real-People-Ad-Campaign.html) again, just like back in '02. Or maybe I only like to use releases that have the number 10 in them?
 
