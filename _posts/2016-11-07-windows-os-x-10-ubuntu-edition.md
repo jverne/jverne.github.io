@@ -1,6 +1,6 @@
 ---
 date: '2016-11-07 23:32 -0500'
-published: false
+published: true
 title: Windows OS X 10 Ubuntu Edition
 category: daily
 tags:
