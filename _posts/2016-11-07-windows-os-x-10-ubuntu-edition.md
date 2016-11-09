@@ -34,6 +34,6 @@ I'm probably __not__ going to install Linux on it, at least for now. I actually 
 
 That's right. I'm a [switcher](https://www.apple.com/pr/library/2002/06/10Apple-Launches-Real-People-Ad-Campaign.html) again, just like back in '02. Or maybe I only like to use releases that have the number 10 in them?
 
-It isn't tightly integrated like that other toolkit I mentioned from TLA, Inc., but it works fine for doing Gradle builds and doing unnatural things to pipes with `find`, which is sort of my life right now. And it is certainly the path of least resistance for a lot of those little apps that let me manage my ebook collection and so on that I always forget about, and then have to spend a few days figuring out on Linux.
+The shell on Windows 10 isn't tightly integrated with the OS like that other toolkit I mentioned from TLA, Inc., but it works fine for doing Gradle builds and doing unnatural things to pipes with `find`, which is sort of my life right now. And it is certainly the path of least resistance for a lot of those little apps that let me manage my ebook collection and so on that I always forget about, and then have to spend a few days figuring out on Linux.
 
 So I figured, why not just turn on all the developer settings in Windows 10 and see if it works out?
