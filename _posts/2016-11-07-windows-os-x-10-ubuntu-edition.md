@@ -12,7 +12,7 @@ tags:
 ---
 Well, I finally bought [a new laptop](http://www3.lenovo.com/ca/en/laptops/thinkpad/thinkpad-t-series/T460s/p/22TP2TT460S). The T460s seems to be the hacker weapon of choice these days, so after a little research I decided to go for it. So, I'm going to eventually be the owner of an "ultrabook", and the first laptop that I've ever purchased with my own money that isn't an Apple product.
 
-According to UPS it's on its way from China, so I don't have it in my grubby paws yet. I suspect I'll miss the giant screen on the old Macbok Pro I'm currently using. I won't miss the tiny battery life or the way it acts like a little space heater.
+According to UPS it's on its way from China, so I don't have it in my grubby paws yet. I suspect I'll miss the giant screen on the old Macbook Pro I'm currently using. I won't miss the tiny battery life or the way it acts like a little space heater.
 
 I _probably_ won't miss OS X, at least too much.
 
