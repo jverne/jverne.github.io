@@ -20,7 +20,7 @@ The idea was to get a smaller upgradeable laptop with decent Linux support and r
 
 <a name="more"></a>
 
-OS X works fine as a development workstation, of course. The reasons I switched to OS X early on was because both Linux and Windows were such a hot mess for something that, really, ought to be pretty easy. But I've made a career out of not really caring that much about whic platform I code on. I've been a paid cross-platform developer for many years now so I really don't have a dog in this fight. I do like my POSIX shell tweaked  just right, but I also like pointy clicky GUIs for browsing and IDEs and what-not. Think of it as "laziness as a virtue".
+OS X works fine as a development workstation, of course. The reasons I switched to OS X early on was because both Linux and Windows were such a hot mess for something that, really, ought to be pretty easy. But I've made a career out of not really caring that much about which platform I code on. I've been a paid cross-platform developer for many years now so I really don't have a dog in this fight. I do like my POSIX shell tweaked  just right, but I also like pointy clicky GUIs for browsing and IDEs and what-not. Think of it as "laziness as a virtue".
 
 This hybrid approach fit nicely with OS X, and I've banged out a lot of releases using a Mac.
 
