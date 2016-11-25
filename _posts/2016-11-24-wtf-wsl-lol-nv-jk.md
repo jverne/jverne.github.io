@@ -1,6 +1,6 @@
 ---
 date: '2016-11-24 22:08 -0500'
-published: false
+published: true
 title: WTF WSL LOL NV JK
 category: daily
 tags:
