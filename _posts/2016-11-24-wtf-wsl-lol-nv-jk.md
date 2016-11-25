@@ -18,4 +18,4 @@ Even though WSL is in beta (and I'm compounding that by installing bleeding edge
 
 WSL seems to be a pretty complete command-line Ubuntu install, with all the trappings of a Debian-flavoured console. I haven't _really_ pushed it hard, of course, but as a sort of acid-test I moved my Ruby-Jekyll-GitHub blog stuff over to the new lappy and made the right `gem` and `apt-get` incantations until I was able to successfully run `bundle exec jekyll serve`. I also updated Ubuntu to Xenial last night with little trouble.
 
-I didn't think I'd care that much about the mechanisms by which Microsoft has done all of this, but I've been skimming the technical notes with some interest. They've really done a decent job of implementing the user and kernel spaces.
+I didn't think I'd care that much about the mechanisms by which Microsoft has done all of this, but I've been skimming the technical notes with some interest. They've really done a decent job of implementing the user and [kernel spaces](https://blogs.msdn.microsoft.com/wsl/2016/06/08/wsl-system-calls/).
