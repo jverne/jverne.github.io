@@ -1,6 +1,6 @@
 ---
 date: '2017-01-08 09:04 -0500'
-published: false
+published: true
 title: "Wigl It, Just a\_Little Bit"
 category: electronics
 tags:
@@ -11,7 +11,7 @@ One of the [Crowd Supply](https://www.crowdsupply.com/) projects I backed finall
 
 Well, it finally arrived a little after Christmas (or, it arrived right on time for Orthodox Christmas, if we are keeping score) so we went ahead and surprised her with it.
 
-There was a little bit of organizing to do in the computer shack necessary to get things to a state where we could make solder smoke, not to mention a fair amount of moving "treasures" around to her new workbench. But once we got that out of the way, things related to the electronics assembly progressed relatively smoothly.
+There was a little bit of organizing to do in the computer shack necessary to get things to a state where we could make solder smoke, not to mention a fair amount of moving "treasures" onto her new workbench. But once we got that out of the way, things related to the electronics assembly progressed relatively smoothly.
 
 I guess we ought to start with the unboxing, of a sort:
 
