@@ -1,13 +1,13 @@
 ---
 date: '2017-01-08 09:04 -0500'
 published: true
-title: "Wigl It, Just a\_Little Bit"
+title: "Wigl It, Just a Little Bit"
 category: electronics
 tags:
   - robotics
   - electronics
 ---
-One of the [Crowd Supply](https://www.crowdsupply.com/) projects I backed finally delivered, which means I am the proud owner of [a Wigl dancing robot]({{ site.baseurl }}{% post_url 2016-04-24-w-i-g-l %}). We've been looking forward to giving this to A., and each birthday or gifty holiday that passes we were wondering if it would arrive on time.
+One of the [Crowd Supply](https://www.crowdsupply.com/) projects I backed finally delivered, which means I am the proud owner of [a Wigl dancing robot]({{ site.baseurl }}{% post_url /2016-04-24-w-i-g-l %}). We've been looking forward to giving this to A., and each birthday or gifty holiday that passes we were wondering if it would arrive on time.
 
 Well, it finally arrived a little after Christmas (or, it arrived right on time for Orthodox Christmas, if we are keeping score) so we went ahead and surprised her with it.
 
@@ -31,10 +31,10 @@ Here's a close-up. My soldering skills are a bit weak, and I _really_ need thinn
 
 <a data-flickr-embed="true"  href="https://www.flickr.com/photos/clvrmnky/31374716873/in/album-72157676965505932/" title="Wigl: warts and all"><img src="https://c2.staticflickr.com/1/764/31374716873_148398b002_z.jpg" width="640" height="480" alt="Wigl: warts and all"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
-I made a few mistakes but managed to resolve them without damaging anything. And when we hook up a 9V battery to the board and turn it on, the RGB LED seems to react with a variety of colours depending on the presence and pitch of sounds captured on the microphone. So that's a win.
+I made a few mistakes but managed to resolve them without damaging anything. And when we hook up a 9V battery to the board and turn it on the RGB LED displays a variety of colours depending on the presence and pitch of sounds captured on the microphone. So that's a win.
 
 A. helped a little, but I wasn't sure we were ready to dive right into soldering yet; at least with the gear I have. I tried to enage her with selecting parts and holding some tricky bits while I made the smoke.
 
 The project has not published the full assembly directions yet, so we stopped here. It looks pretty straightforward, but I think I want to wait until I see the hints around putting the wheels on and figuring out motor direction and whatnot. It's also unclear how to reprogram the AVR chip without a proper header, but I haven't really looked closely at that yet. It does appear to have some working program already on it, so that'll do for now.
 
-So, a qualified win. I was a little too timid about enagaging A. with the actual assembly and soldering. I'll do better when we assemble the hardware. The fiddly puzzle-like pieces and actualy nuts and bolts are something she is looking forward to messing around with.
+So, a qualified win. I was a little too timid about enagaging A. with the actual assembly and soldering. I'll do better when we assemble the hardware. The fiddly puzzle-like pieces and actual nuts and bolts are something she is probably looking forward to messing around with.
