@@ -5,6 +5,11 @@ title: Don't look at my guitar amp
 ---
 ## Bedroom Rocker
 
+Look at this thing.
+
+[...]
+
+It actually goes to eleven.
 
 
 Enter text in [Markdown](http://daringfireball.net/projects/markdown/). Use the toolbar above, or click the **?** button for formatting help.
