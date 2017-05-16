@@ -16,6 +16,8 @@ This was, of course, a little disappointing.
 
 Anyway, since we have some of the tools to figure this out, the first step was to confirm through the  [Crowd Supply page](https://www.crowdsupply.com/vivek-mano/wigl) that the code published in the [GitHub project](https://github.com/vivekmano/wigl) repository is actually on the ATmega328P shipped with the kit. I also made sure the pin header pads on the board were typical sizes so I could order a 90-degree 6-pin header so I can start poking at the chip via a serial port.
 
+<a name="more"></a>
+
 It turns out that we can't be sure that what Crowd Supply shipped was within spec, so Vivek said he'd order a project for himself and make sure what was shipped was what he designed. Meanwhile, I could experiment a bit with the software, which required reprogramming the ATmega chip. Since I didn't have any programming headers around, I put the board down for a bit.
 
 Fast-forward a few weeks and through the magic of global manufacturing and supply I have more 0.100&#x02033; (2.54 mm) Breakaway Male Headers than I will be able to use in my lifetime shipped right to my door for a few bucks.
