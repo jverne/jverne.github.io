@@ -14,7 +14,7 @@ The idea is that certain notes with cause the robot to turn, move forward, etc. 
 
 This was, of course, a little disappointing.
 
-Anyway, since we have some of the tools to figutre this out, the first step was to confirm what I am seeing in the [GitHub project](https://github.com/vivekmano/wigl) is what is actually on the ATmega328P shipped with the kit. I raise a question on the [Crowd Supply page](https://www.crowdsupply.com/vivek-mano/wigl) asking if the published GitHub project was what I was supposed to be running. I also made sure the pin header pads on the board were standard sizes so I could order a 90-degree 6-pin header so I can start poking at the chip via a serial port.
+Anyway, since we have some of the tools to figutre this out, the first step was to confirm through the  [Crowd Supply page](https://www.crowdsupply.com/vivek-mano/wigl) that the code published in the [GitHub project](https://github.com/vivekmano/wigl) repository is actually on the ATmega328P shipped with the kit. I also made sure the pin header pads on the board were typical sizes so I could order a 90-degree 6-pin header so I can start poking at the chip via a serial port.
 
 It turns out that we can't be sure that what Crowd Supply shipped was within spec, so Vivek said he'd order a project and make sure what was shipped was what he designed. Meanwhile I could experiment a bit with the software, which required reprogramming the ATmega chip. Since I didn't have any programming headers around, I put the board down for a bit.
 
