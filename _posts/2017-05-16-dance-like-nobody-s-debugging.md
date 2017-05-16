@@ -18,7 +18,7 @@ Anyway, since we have some of the tools to figutre this out, the first step was 
 
 It turns out that we can't be sure that what Crowd Supply shipped was within spec, so Vivek said he'd order a project and make sure what was shipped was what he designed. Meanwhile I could experiment a bit with the software, which required reprogramming the ATmega chip. Since I didn't have any programming headers around, I put the board down for a bit.
 
-Fast-forward a few weeks and through the magic of global manufacturing and supply I have more 0.100" (2.54 mm) Breakaway Male Headers than I will be able to use in my lifetime for a few bucks.
+Fast-forward a few weeks and through the magic of global manufacturing and supply I have more 0.100&#x02033; (2.54 mm) Breakaway Male Headers than I will be able to use in my lifetime for a few bucks.
 
 Last night I soldered the header in and hooked up an FTDI USB-to-TTL-Serial cable to the board and started down the rabbit hole of talking to an ATmega chip via various AVR/Arduino tools. After talking with Vivek, the chip is _supposed_ to be Arduino Uno-compatible with an on-chip bootloader but it sure isn't behaving like it. It looks like the serial port circuit is sensing the DTR and invoking the auto-reset (or at least we see some LEDs flashing, which is the universal indicator for Arduino auto-reset) but otherwise I get the dreaded "avrdude:stk500_recv(): programmer is not responding" message.
 
