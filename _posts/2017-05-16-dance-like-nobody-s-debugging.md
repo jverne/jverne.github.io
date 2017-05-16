@@ -1,6 +1,6 @@
 ---
 date: '2017-05-16 14:34 -0400'
-published: false
+published: true
 title: Dance Like Nobody's Debugging
 tags:
   - robots
