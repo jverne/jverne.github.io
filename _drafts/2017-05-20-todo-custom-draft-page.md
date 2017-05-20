@@ -7,6 +7,6 @@ tags:
 ---
 Instead of this, how about our page break.
 
-## A New Post
+<a name="more"></a>
 
-Enter text in [Markdown](http://daringfireball.net/projects/markdown/). Use the toolbar above, or click the **?** button for formatting help.
+<!-- DRAFT -->
