@@ -5,7 +5,7 @@ title: 'ToDo: custom draft page'
 tags:
   - ToDo
 ---
-Instead of this, how about our page break.
+<!-- DRAFT-->
 
 <a name="more"></a>
 
