@@ -1,6 +1,6 @@
 ---
 date: '2017-09-14 14:02 -0400'
-published: false
+published: true
 title: Boring Site Announcement
 category: site-info
 tags:
