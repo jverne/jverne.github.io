@@ -8,7 +8,7 @@ tags:
   - electronics
 category: electronics
 ---
-So, A. and I completed the [Wigl dancing robot]({{ site.baseurl }}{% post_url 2017-01-08-wigl-it-just-a-little-bit %}), but the results were not that exciting. It appears to move, and the LEDs are lighting in a somewhat appropriate manner. I should report that A. successfully soldered the motors to the motor wires, and only once found out that you shouldn't hold the iron like a pencil, near the hot end. (Don't worry: no one was _seriously_ harmed.) But, after some experimentation with various instruments, it appears it is about a half-step off from the expected.
+A. and I completed the [Wigl dancing robot]({{ site.baseurl }}{% post_url 2017-01-08-wigl-it-just-a-little-bit %}), but the results were not that exciting. It appears to move, and the LEDs are lighting in a somewhat appropriate manner. I should report that A. successfully soldered the motors to the motor wires, and only once found out that you shouldn't hold the iron like a pencil, near the hot end. (Don't worry: no one was _seriously_ harmed.) But, after some experimentation with various instruments, it appears it is about a half-step off from the expected.
 
 The idea is that certain notes with cause the robot to turn, move forward, etc. And certain combination of notes will cause mode changes. However, after some head-scratching it looked like it was sampling such that a B&#x266D; would turn left, instead of a natural B. Not only that, but the movements seemed, well, really jerky and weird. Almost like the sample rate was a little too fast. It wouldn't respond at all, and then it would take off in some random manner. Something was not right.
 
