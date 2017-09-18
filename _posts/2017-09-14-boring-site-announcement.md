@@ -6,7 +6,7 @@ category: site-info
 tags:
   - site-info
 ---
-So, I'm switching  registrars for the clevermonkey.org domain, and during the switch-over I might not get the DNS stuff updated in a timely manner.
+I'm in the process of switching registrars for the clevermonkey.org domain, and during the switch-over I might not get the DNS stuff updated in a timely manner.
 
 So, if you can read this either it worked, or it is about to not work. Sorry.
 
