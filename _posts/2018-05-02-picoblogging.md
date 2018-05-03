@@ -1,6 +1,6 @@
 ---
 date: '2018-05-02 08:27 -0400'
-published: false
+published: true
 title: Picoblogging
 tags:
   - microblogging
