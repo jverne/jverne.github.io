@@ -4,4 +4,6 @@ published: false
 title: Picoblogging
 tags: null
 ---
-In a fit of pique, I've retired most of my social networking accounts. This is partially to encourage more blogging. Here is some blogging.
+In a fit of pique, I've retired most of my social networking accounts. This is partially to encourage more writing. I also have a few projects on the go I should talk about. 
+
+Like, for instance, did you know I'm planning building a modular synth?
