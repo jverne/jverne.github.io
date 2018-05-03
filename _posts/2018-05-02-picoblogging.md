@@ -4,6 +4,7 @@ published: true
 title: Picoblogging
 tags:
   - microblogging
+category: site-info
 ---
 In a fit of pique, I've retired most of my social networking accounts. This is partially to encourage more writing. I also have a few projects on the go I should talk about.
 
