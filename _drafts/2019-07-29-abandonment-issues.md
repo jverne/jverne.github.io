@@ -8,6 +8,6 @@ tags:
 ---
 ## Another dead blog
 
-
+Typically, none of the projects dicussed herein have progressed. Instead, I've been spending some amount of time in the <strike>garage</strike>shop
 
 Enter text in [Markdown](http://daringfireball.net/projects/markdown/). Use the toolbar above, or click the **?** button for formatting help.
