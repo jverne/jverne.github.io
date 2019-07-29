@@ -2,6 +2,9 @@
 date: '2019-07-29 09:18 -0400'
 published: false
 title: Abandonment Issues
+tags:
+  - meta
+  - blog
 ---
 ## Another dead blog
 
