@@ -28,7 +28,7 @@ Now, I _know_ I'm not dedicated enough to review all the high-school math I gave
 
 Basically, it's about being able to use the Python `cmath` library in [GNU Radio](https://www.gnuradio.org/) with some confidence. Let's just say I'm going to rely on Google and Wolfram Alpha to help me fill in the gaps.
 
-For some reasons I will probably talk about in the future, many of my previous hobbys are being retired more or less permanently. So there will be less talk about music and synthesis. Instead, that same interest in digital signal processing will be applied in a less artistic manner.
+For some reasons I will probably talk about in the future, many of my previous hobbies are being retired more or less permanently. So there will be less talk about music and synthesis. Instead, that same interest in digital signal processing will be applied in a less artistic manner.
 
 In concert with this new hobby direction, I've decided to try and ressurrect this dead blog, and document some of this journey back to my early interests in radio, electronics, and experimental embedded hardware hacking.
 
