@@ -3,13 +3,7 @@ date: '2022-03-13 10:52 -0400'
 published: false
 title: Current Events
 ---
-## 
-###
-
-
-Enter text in [Markdown](http://daringfireball.net/projects/markdown/). Use the toolbar above, or click the **?** button for formatting help.
-
-Oh look. Another abandoned blog.
+### Oh look. Another abandoned blog.
 
 Trust me when I tell you that when I posted regularly to the self-hosted Old Blog<sup>1</sup> I would often comment on current events. Often those events were technical in nature, given the technical nature of the blog. But there was also little asides or longer mini-essays that had a more political flavour.
 
