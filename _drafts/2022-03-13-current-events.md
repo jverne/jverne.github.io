@@ -2,6 +2,9 @@
 date: '2022-03-13 10:52 -0400'
 published: false
 title: Current Events
+tags:
+  - radio
+category: amateur-radio
 ---
 ### Oh look. Another abandoned blog.
 
