@@ -14,7 +14,7 @@ This blog isn't going to do that.
 
 Now that we are Post-Peak-Blog, no one needs to read my hot takes on world events, technical or otherwise.
 
-The only current events I am going to discuss with anyone right now is one that has a mathematical relationship with voltage and resistance, as I have decided to renew my interest [Amateur Radio](https://en.wikipedia.org/wiki/Amateur_radio) and _finally_ get my Basic Qualifications. This is something I've wanted to do since I was in grade school.
+The only current events I am going to discuss with anyone right now is one that has a mathematical relationship with voltage and resistance, as I have decided to renew my interest in [Amateur Radio](https://en.wikipedia.org/wiki/Amateur_radio) and _finally_ get my Basic Qualification. This is something I've wanted to do since I was in grade school.
 
 For me, radio scratched the same itch as computer hacking, and to a greater extent, still does. That is to say, it is the exploratory technical hacking and understanding that is of most interest, and not actually using radio to communicate with others that is the main drive for me. Don't get me wrong: I think people are just fine. I just generally don't want to talk to them most of the time. So, it is likely I'm going to be one of those silent, [digital mode](https://www.arrl.org/digital-modes), keyboarding kind of ham. I don't see myself doing much "rag-chewing" on local repeaters for so many reasons. (Sorry, local nets.)
 
