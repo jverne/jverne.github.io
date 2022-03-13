@@ -1,6 +1,6 @@
 ---
 date: '2022-03-13 10:52 -0400'
-published: false
+published: true
 title: Current Events
 tags:
   - radio
