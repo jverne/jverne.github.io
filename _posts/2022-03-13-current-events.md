@@ -32,4 +32,4 @@ For some reasons I will probably talk about in the future, many of my previous h
 
 In concert with this new hobby direction, I've decided to try and ressurrect this dead blog, and document some of this journey back to my early interests in radio, electronics, and experimental embedded hardware hacking.
 
-I also bought _another_ dead TRS-80 Model 100, so now I have twice as much retrocomputing "fun" to share.
+I also bought _another_ dead [TRS-80 Model 100](https://www.trs-80.com/wordpress/trs-80-computer-line/model-100/), so now I have twice as much retrocomputing "fun" to share.
