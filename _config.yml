@@ -16,7 +16,7 @@ permalink: pretty
 kramdown:
   auto_ids: false
 excerpt_separator: <a name="more"></a>
-gems:
+plugins:
    - jekyll-redirect-from
    - jemoji
    - jekyll-sitemap
