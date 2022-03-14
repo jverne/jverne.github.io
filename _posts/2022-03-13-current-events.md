@@ -14,7 +14,7 @@ This blog isn't going to do that.
 
 Now that we are Post-Peak-Blog, no one needs to read my hot takes on world events, technical or otherwise.
 
-The only current events I am going to discuss with anyone right now is one that has a mathematical relationship with voltage and resistance, as I have decided to renew my interest in [Amateur Radio](https://en.wikipedia.org/wiki/Amateur_radio) and _finally_ get my Basic Qualification. This is something I've wanted to do since I was in grade school.
+The only current events I am going to discuss with anyone right now is one that has a mathematical relationship with voltage and resistance, as I have decided to renew my interest in [amateur radio](https://en.wikipedia.org/wiki/Amateur_radio) and _finally_ get my Basic Qualification. This is something I've wanted to do since I was in grade school.
 
 <a name="more"></a>
 
