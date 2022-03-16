@@ -28,6 +28,6 @@ There was some stuff inside the box. We decided to pull all the stuff out.
 
 It's an oscilloscope!
 
-<a data-flickr-embed="true"  href="https://www.flickr.com/photos/clvrmnky/51941777025/in/datetaken-public/" title="A Rigol DS1054Z"><img src="https://c8.staticflickr.com/8/7117/27674314215_fc8807cc6d.jpg" width="500" height="307" alt="A Rigol DS1054Z oscilloscope"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+<a data-flickr-embed="true"  href="https://www.flickr.com/photos/clvrmnky/51941777025/in/datetaken-public/" title="A Rigol DS1054Z"><img src="https://live.staticflickr.com/65535/51941777025_0c9bdb2355_w_d.jpg" width="300" height="400" alt="A Rigol DS1054Z oscilloscope"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
 The 'scope is on the bench and the probes calibrated. Next: time to see about those TRS-80 Model 100 display problems.
