@@ -10,7 +10,7 @@ category: electronics
 
 Today I got this delivered via that web site named after the river and the jungle, but sent direct from the Rigol warehouse:
 
-<a data-flickr-embed="true"  href="https://www.flickr.com/photos/clvrmnky/51940169722/in/datetaken-public/" title="A box labelled Rigol"><img src="https://live.staticflickr.com/65535/51940169722_5b6b27ff7e_w_d.jpg" width="500" height="307" alt="A box labelled Rigol"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+<a data-flickr-embed="true"  href="https://www.flickr.com/photos/clvrmnky/51940169722/in/datetaken-public/" title="A box labelled Rigol"><img src="https://live.staticflickr.com/65535/51940169722_5b6b27ff7e_w_d.jpg" width="300" height="400" alt="A box labelled Rigol"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
 We decided to open it up and see what was inside.
 
