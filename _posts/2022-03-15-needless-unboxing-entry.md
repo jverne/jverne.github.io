@@ -16,15 +16,15 @@ We decided to open it up and see what was inside.
 
 <a name="more"></a>
 
-<a data-flickr-embed="true"  href="https://www.flickr.com/photos/clvrmnky/51941777110/in/datetaken-public/" title="Opening the box with a boxcutter"><img src="https://c8.staticflickr.com/8/7117/27674314215_fc8807cc6d.jpg" width="500" height="307" alt="Opening the box with a boxcutter"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+<a data-flickr-embed="true"  href="https://www.flickr.com/photos/clvrmnky/51941777110/in/datetaken-public/" title="Opening the box with a boxcutter"><img src="https://live.staticflickr.com/65535/51941777110_17a7f91f40_w_d.jpg" width="300" height="400" alt="Opening the box with a boxcutter"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
 When we opened the box we saw this inside:
 
-<a data-flickr-embed="true"  href="https://www.flickr.com/photos/clvrmnky/51941161211/in/datetaken-public/" title="The box has some stuff in it"><img src="https://c8.staticflickr.com/8/7117/27674314215_fc8807cc6d.jpg" width="500" height="307" alt="Showing the inside of the box"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+<a data-flickr-embed="true"  href="https://www.flickr.com/photos/clvrmnky/51941161211/in/datetaken-public/" title="The box has some stuff in it"><img src="https://live.staticflickr.com/65535/51941161211_f7bab5aa5d_w_d.jpg" width="400" height="300" alt="Showing the inside of the box"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
 There was some stuff inside the box. We decided to pull all the stuff out.
 
-<a data-flickr-embed="true"  href="https://www.flickr.com/photos/clvrmnky/51941161191/in/datetaken-public/" title="it's a scope!"><img src="https://c8.staticflickr.com/8/7117/27674314215_fc8807cc6d.jpg" width="500" height="307" alt="The scope in packing material"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+<a data-flickr-embed="true"  href="https://www.flickr.com/photos/clvrmnky/51941161191/in/datetaken-public/" title="it's a scope!"><img src="https://live.staticflickr.com/65535/51941161191_021b49ce3e_w_d.jpg" width="300" height="400" alt="The scope in packing material"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
 It's an oscilloscope!
 
