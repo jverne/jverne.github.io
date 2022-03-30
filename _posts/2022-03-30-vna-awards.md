@@ -1,6 +1,6 @@
 ---
 date: '2022-03-30 14:09 -0400'
-published: false
+published: true
 title: VNA Awards
 tags:
   - unboxing
