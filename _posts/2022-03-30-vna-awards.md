@@ -35,4 +35,4 @@ I know. I know! I said I would never buy another piece of cheap test equipment! 
 
 This is a teaching tool, in that I am going to use it to tech myself practical antenna system fundamentals.
 
-Now, off to learn how to self-align it and then see how bad my home-made loop antenna is.
+Now, off to learn how to calibrate it and then see how bad my home-made loop antenna is.
