@@ -17,6 +17,8 @@ This _fancy_ box arrived in the mail today:
    <img src="https://www.23hq.com/23666/101741438_b6d5afb8dd1618ae2c8147a9ea5a9479_standard.jpg" height="345" width="460" />
 </a>
 
+<a name="more"></a>
+
 Inside the fancy box was all this stuff:
 
 <a href="https://www.23hq.com/clvrmnky/photo/101741423">
