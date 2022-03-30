@@ -3,7 +3,8 @@ date: '2022-03-15 23:54 -0400'
 published: true
 title: Needless Unboxing Entry
 tags:
-  - 'oscilloscope,unboxing'
+  - oscilloscope
+  - unboxing
 category: electronics
 ---
 ### Here is an unboxing
