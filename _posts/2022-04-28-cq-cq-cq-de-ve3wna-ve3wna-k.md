@@ -9,7 +9,7 @@ title: CQ CQ CQ DE VE3WNA VE3WNA K
 
 11-year old me is ecstatic. That was definitely on 11-year old me's bucket list. Committing to an online course was definitely the way to go for me. I'm an excellent self-starter, but a terrible self-finisher.
 
-The title of this posting is a bit of a lie, though. I don't know how to read or send Morse (or CW) yet. But I am taking a CW course in the fall, so it's only a little lie. I suspect CW is going to be a bit more of a challenge, as in many ways it is like learning a new language.
+The title of this posting is a bit of a lie, though. I don't know how to read or send Morse (or CW) yet. But I am taking a virtual CW course in the fall [hosted by my local club](https://www.ve3yt.com/cw-course), so it's only a little lie. I suspect CW is going to be a bit more of a challenge, as in many ways it is like learning a new language. And, yes. I am already looking ahead to studying for the Advanced qualifications.
 
 I'm not sure what I'm going to do with this new privilege to use the airwaves, but maybe I'll take my H/T outside for a walk this evening and at least introduce myself on the local repeater. I do have some ideas about turning my bicycle trailer into a mobile station for lower carbon-load field days, but we'll see.
 
