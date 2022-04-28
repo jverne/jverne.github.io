@@ -10,7 +10,7 @@ category: amateur-radio
 ---
 ### Victor Echo Three Whisky November Alfa
 
-[As I mentioned](http://clevermonkey.org/amateur-radio/2022/03/13/current-events/) in a previous update, I recently decided to re-restart getting my [Canadian amateur radio operator certificate](https://www.ic.gc.ca/eic/site/smt-gst.nsf/eng/sf01862.html#B) by joining an online course hosted by a club out East. Well, I can now report that after a few weeks of study I passed the exam with a final mark above 80% (99 out of 100!) which gives me access to the entire amateur radio spectrum here in Canada.
+[As I mentioned](http://clevermonkey.org/amateur-radio/2022/03/13/current-events/) in a previous update, I recently decided to re-restart getting my [Canadian amateur radio operator certificate](https://www.ic.gc.ca/eic/site/smt-gst.nsf/eng/sf01862.html#B) by joining an [online course hosted by a club out East](https://avarc.ca/index.php/online-basic-course/). Well, I can now report that after a few weeks of study I passed the exam with a final mark above 80% (99 out of 100!) which gives me access to the entire amateur radio spectrum here in Canada.
 
 11-year old me is ecstatic. That was definitely on 11-year old me's bucket list. Committing to an online course was definitely the way to go for me. I'm an excellent self-starter, but a terrible self-finisher.
 
