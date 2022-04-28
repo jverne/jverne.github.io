@@ -8,7 +8,7 @@ tags:
   - coursework
 category: amateur-radio
 ---
-## Victor Echo Three Whisky November Alfa
+### Victor Echo Three Whisky November Alfa
 
 [As I mentioned](http://clevermonkey.org/amateur-radio/2022/03/13/current-events/) in a previous update, I recently decided to re-restart getting my [Canadian amateur radio operator certificate](https://www.ic.gc.ca/eic/site/smt-gst.nsf/eng/sf01862.html#B) by joining an online course hosted by a club out East. Well, I can now report that after a few months of study I passed the exam with with a final mark above 80% (99 out of 100!) that gives me access to the entire amateur radio spectrum here in Canada.
 
