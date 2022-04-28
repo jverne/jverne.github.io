@@ -2,6 +2,11 @@
 date: '2022-04-28 12:10 -0400'
 published: true
 title: CQ CQ CQ DE VE3WNA VE3WNA K
+tags:
+  - licensing
+  - cw
+  - coursework
+category: amateur-radio
 ---
 ## Victor Echo Three Whisky November Alfa
 
@@ -12,4 +17,3 @@ title: CQ CQ CQ DE VE3WNA VE3WNA K
 The title of this posting is a bit of a lie, though. I don't know how to read or send Morse (or CW) yet. But I am taking a virtual CW course in the fall [hosted by my local club](https://www.ve3yt.com/cw-course), so it's only a little lie. I suspect CW is going to be a bit more of a challenge, as in many ways it is like learning a new language. And, yes. I am already looking ahead to studying for the Advanced qualifications.
 
 I'm not sure what I'm going to do with this new privilege to use the airwaves, but maybe I'll take my H/T outside for a walk this evening and at least introduce myself on the local repeater. I do have some ideas about turning my bicycle trailer into a mobile station for lower carbon-load field days, but we'll see.
-
