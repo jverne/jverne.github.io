@@ -1,6 +1,6 @@
 ---
 date: '2022-04-28 12:10 -0400'
-published: false
+published: true
 title: CQ CQ CQ DE VE3WNA VE3WNA K
 ---
 ## Victor Echo Three Whisky November Alfa
