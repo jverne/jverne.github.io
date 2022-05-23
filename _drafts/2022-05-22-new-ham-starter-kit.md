@@ -2,6 +2,10 @@
 date: '2022-05-22 21:31 -0400'
 published: false
 title: New Ham Starter Kit
+tags:
+  - mobile
+  - sdr
+category: amateur-radio
 ---
 ## From the shack-in-a-box dept.
 
