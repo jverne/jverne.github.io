@@ -30,4 +30,4 @@ Add a suitable antenna you have a "New Ham Starter Kit."
 
 The G90 has, of course, many glowing reviews associated with it. Apparently, it doesn't have a very good keyer, and the audio needs lots of EQ. It is also pretty much a QRP rig at 20 watts. It doesn't cover 6 metres, which is a really nice mobile band and also gives me access to our club's 6 metre repeater.
 
-However, my little H/T (a Yaesu VX-7R) covers 6 metres, at least through a better antenna. As for RF power, my idea was to run any rig in low power mode anyway, and the standby current is pretty good.
+However, my little H/T (a Yaesu VX-7R) covers 6 metres, at least through a better antenna. As for RF power, my idea was to run any rig in low power mode anyway, and the standby current is pretty good for the Xiegu.
