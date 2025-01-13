@@ -1,6 +1,5 @@
 ---
 date: '2022-05-22 21:31 -0400'
-published: false
 title: New Ham Starter Kit
 tags:
   - mobile
