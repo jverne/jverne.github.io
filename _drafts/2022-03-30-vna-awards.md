@@ -25,7 +25,7 @@ And this is what it looks like when I took out the box and turned on what looks 
 
 It's a [very tiny network analyzer](https://nanovna.com/)!
 
-I know. I know! I said I would never buy another piece of cheap test equipment! There is no way a NanoVNA can compete with a traditional [network analyzer](https://en.wikipedia.org/wiki/Network_analyzer_(electrical)). But it was _so_ cheap, and _so_ cute I coul dnot resist. Anyway, all the cool Amateurs are using them, so there is a pile of information on how to use to what it does best. It's not like I'm going to be using this in order to submit official test results to Industry Canada (er, I guess that's "Innovation, Science and Economic Development Canada" but what an unnecessary mouthful).
+I know. I know! I said I would never buy another piece of cheap test equipment! There is no way a NanoVNA can compete with a traditional [network analyzer](https://en.wikipedia.org/wiki/Network_analyzer_(electrical)). But it was _so_ cheap, and _so_ cute I could ot resist. Anyway, all the cool Amateurs are using them, so there is a pile of information on how to use to what it does best. It's not like I'm going to be using this in order to submit official test results to Industry Canada (er, I guess that's "Innovation, Science and Economic Development Canada" but what an unnecessary mouthful).
 
 This is a teaching tool, in that I am going to use it to tech myself practical antenna system fundamentals.
 
