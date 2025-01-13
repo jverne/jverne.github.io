@@ -24,14 +24,14 @@ So, like any new ham, I've been comparison shopping. A lot. I've been looking at
 
 Certainly a Yaesu FT-891 would be a very good choice. The ICOM choices are a bit more expensive, at least in Canada, but are all excellent options. But the POTA ("Parks ...") and SOTA ("Summits ...") radio folks...
 
-But the POTA and SOTA folks do have one pointer they can give me, which is toward some of the newer SDR designs designed around mobile radio ops appropriate for your Prepper Field Day. Which means that for a modest (CAN$1000 plus tax, delivery) you can get:
+But the POTA and SOTA folks do have one pointer they can give me, which is toward some of the newer SDR designs designed around mobile radio ops appropriate for your Prepper Field Day. Which means that for a modest (CDN$1000 plus tax, delivery) you can get:
 
 * Xiegu G90 HF 20W SDR Transceiver
 * Xiegu BFK-5 Desk Stand Frame Kit
 * 13.8 DC volt, 30 amp switching power supply
 * Xiegu CE-19 Data Interface Expansion Card, with cables
 
-Add a suitable antenna you have a "New Ham Starter Kit."
+Add a suitable antenna and you have a "New Ham Starter Kit."
 
 The G90 has, of course, many glowing reviews associated with it. Apparently, it doesn't have a very good keyer, and the audio needs lots of EQ. It is also pretty much a QRP rig at 20 watts. It doesn't cover 6 metres, which is a really nice mobile band and also gives me access to our club's 6 metre repeater.
 
