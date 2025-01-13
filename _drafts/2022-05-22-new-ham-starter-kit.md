@@ -9,9 +9,15 @@ category: amateur-radio
 ---
 ## From the shack-in-a-box dept.
 
+Spoler alert: I ended up buying a complete Xiegu setup, batteries, a cheap and cheerful charging module, and completely gutted the trailer to prototype this mobile station.
+
+So, even this posting has been in my darfts for years, I decided to just publish it for posterity. An update with all the build details should follow within the decade.
+
+---
+
 Well, since I have my HF privileges (<29.9 MHz in Canada) and a willingness to find a place to raise antennas, I ought to have some equipment that lets me transmit HF.
 
-I've been working converting the old bicycle trailer into a sort of "Cycling On The Air" (ÇOTA) system, which is a project that deserves its own series of entries. But when not in the trailer I'd like this stuff to live on a desktop as a shack base station to at least 10 metres. 6 metres is nice (especially for mobile) but my H/T covers that. Unlike SOTA ("Summits ...") and POTA ("Parks ...") I'm not looking to minimize mass, or only work QRP because I can carry a fair amount of power and recharging options; any wattage is good wattage. 
+I've been working converting the old bicycle trailer into a sort of "Cycling On The Air" (ÇOTA?) system, which is a project that deserves its own series of entries. But when not in the trailer I'd like this stuff to live on a desktop as a shack base station to at least 10 metres. 6 metres is nice (especially for mobile) but my H/T covers that. Unlike SOTA ("Summits ...") and POTA ("Parks ...") I'm not looking to minimize mass, or only work QRP because I can carry a fair amount of power and recharging options; any wattage is good wattage. 
 
 With a modest Canadian budget how can we get on the air with a system that fits those requirements?
 
