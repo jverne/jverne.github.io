@@ -8,7 +8,7 @@ category: amateur-radio
 ---
 ## From the shack-in-a-box dept.
 
-Spoler alert: I ended up buying a complete Xiegu setup, batteries, a cheap and cheerful charging module, and completely gutted the trailer to prototype this mobile station.
+Spoiler alert: I ended up buying a complete Xiegu setup, batteries, a cheap and cheerful charging module, and completely gutted the trailer to prototype this mobile station.
 
 Even though this posting has been in my drafts for years, I decided to just publish it for posterity, two years later. An update with all the build details should follow within the decade.
 
