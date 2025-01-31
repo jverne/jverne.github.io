@@ -1,5 +1,5 @@
 ---
-date: '2022-05-22 21:31 -0400'
+date: '2025-01-13 21:31 -0400'
 title: New Ham Starter Kit
 tags:
   - mobile
