@@ -18,6 +18,8 @@ Your work is done only when a full root cause analysis has been shared in your i
 
 Here are some of my rules for better living through tactical development. This is a work in progress.
 
+<a name="more"></a>
+
 ## 1. Customers lie
 
 - They might not even know they are lying. People want to help and may have a preconceived notion of what you want to hear. Or they heard what they are reporting from someone else. Do not trust them. They will lie and think they are helping.
