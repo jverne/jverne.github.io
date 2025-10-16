@@ -23,34 +23,23 @@ Here are some of my rules for better living through tactical development. This i
 ## 1. Customers lie
 
 - They might not even know they are lying. People want to help and may have a preconceived notion of what you want to hear. Or they heard what they are reporting from someone else. Do not trust them. They will lie and think they are helping.
-
 - All information is provisional until it is backed up by other evidence.
-
 - For critical information, always ask the same question multiple times in different ways, ideally at different times. Because you will get slightly different information each time, allowing you to build a more accurate representation of the truth.
-
 - There is a reason people dislike talking with lawyers[^5]. They ask hard questions, distrust all answers, and usually have a pretty good idea what the answers are already. If you hear something outlandish or unlikely, be aware! Impossible things are impossible, but undefined behaviour[^6] is infinite in its expression. Your aim is to identify that undefined behaviour and trap it in a corner.
 
 ## 2. Customers are as confused as you are
 
 - You are usually speaking with someone who only has second- or third-hand understanding of the problem. They don't know the details any more than you do, and are as confused as you are. Nothing makes sense. All is confusion, darkness, and lament. The angels weep.
-
 - Always, *always*, **always**:
   - Keep notes and emails short. No one reads further than 10 lines. Most stop comprehending at 5. At this point, if you are still reading this document you are a statistical outlier. Go you!
   - If you must offer a full technical assessment, say perhaps for a weekly peer update, then offer a tight _precis_ at the top, followed by a clear "TL;DR" for the rest.
   - **Know your audience.** When discussing things with your peers, you can use internal jargon, and get into the weeds. For most others, including technical people not immediately fluent in the technical space you find yourself in, keep it generic. It is ok and correct to hand-wave technical details. Save the details for the incident ticket.
   - Don't be like this document! Stay away from obscure figures of speech and idiomatic phrases.
-
 - When asking for something, be pedantically, annoyingly specific. You don't know if the same people are reading your reports, or gathering what you ask. Someone might have stepped in to cover for someone. English is the _lingua franca_ of technology companies, but not everyone comes to English with the same confidence.
-
   - If you need some logs or reports be excruciatingly clear _what_ logs and _which_ reports.
-
-  - Call things by their names. If everyone just calls them "the logs" but you know that it is exposed as a gesture labelled
-  "Device Debug Logs" use that term. Every time. This will save at least one round-trip misunderstanding over a long weekend, where now you have to explain to your manager that the critical issue is stalled because your contact is in a different time zone and didn't give you what you wanted on Friday.
-
+  - Call things by their names. If everyone just calls them "the logs" but you know that it is exposed as a gesture labelled "Device Debug Logs" use that term. Every time. This will save at least one round-trip misunderstanding over a long weekend, where now you have to explain to your manager that the critical issue is stalled because your contact is in a different time zone and didn't give you what you wanted on Friday.
   - At least early in the conversation, and occasionally over time, be sure to clarify this by showing examples for how to collect these things.
-
   - Help harried, disorganized people help you by giving them bullet point lists of tasks and preconditions even if you know that those preconditions are probably already in place. Don't just say "collect the logs". Rather, say something like:
-  
     - Enable full "DEBUG" logging using the Frobnitz Logger control.
     - Set up the Xyzzy device with the Fnord configuration.
     - Make note of the wallclock time.
@@ -61,29 +50,21 @@ Here are some of my rules for better living through tactical development. This i
 ## 3. Work from first principles
 
 - Always work from the known to the unknown. If something is unclear or unknown, then anything derived from it cannot be trusted.
-
 - "Spit-balling" is fine, but you absolutely cannot build a successful solution on guesswork. Test those assertions. If you can't test them, then they are nothing more than fantasy and cannot be trusted. Save the hand-waving for your science-fiction novel. (Yes, I know you are writing a science fiction novel.)
-
 - Help yourself and help others by stating your assumptions up front when asking for a clarification or information. When asking for a piece of information that you know hinges on a possibly shared assumption, state that assumption.
-
   - i.e., don't just assume they are using that API or setting that 99.999% of people use; say something like, "Assuming you are using 'Frobnitz' setting, leaving it at the default of 'Xyzzy', can you please report the value of the 'Fnord' result exactly as shown?"
 
 ## 4. Keep it simple, silly
 
 - Simplify, simplify, simplify. Complicated problems are complicated. They cannot be understood until each part is understood.
-
 - Real problems have multiple contributing factors. We operate under the "Swiss cheese" model[^7], where the holes have to line up to cause that "weird" or "impossible" problem. It is your job to tell the story about how they lined up.
 
 ## 5. Practice the Beginner's Mind
 
 - Even the saltiest, grumpiest bearded curmudgeon has not seen it all. Prepare to be surprised at the breadth and depth of astonishment that awaits the Tactical Developer.
-
 - Know that years of experience is also a lie: the ways modern systems can fail are near infinite and you should prepare to be constantly surprised.
-
 - Do not let your experience fool you! Always remember that undefined behaviour is infinite in its expression.
-
 - Try to maintain a beginner's mind[^8] when trying to comprehend this infinite.
-
 - There is a perverse humour is comprehending how foolish these systems of ours are; embrace this. Remember that the worst days make the best stories.
 
 ## Footnotes
