@@ -86,6 +86,8 @@ Here are some of my rules for better living through tactical development. This i
 
 - There is a perverse humour is comprehending how foolish these systems of ours are; embrace this. Remember that the worst days make the best stories.
 
+## Footnotes
+
 [^1]: For "customer" you can also substitute any of the following: vendor, partner, peer, etc.
 
 [^2]: If everything is "mission critical" then nothing is mission critical. But customers will want you to know how important this all is. We can acknowledge this, but our job and how we do it doesn't change.
