@@ -1,6 +1,10 @@
 ---
 date: '2025-10-16 12:05 -0400'
 title: Guidelines for the Successful Tactical Developer
+tags:
+  - work
+  - guides
+category: work
 ---
 # Guidelines for the Successful Tactical Developer
 
