@@ -50,7 +50,7 @@ Here are some of my rules for better living through tactical development. This i
 ## 3. Work from first principles
 
 - Always work from the known to the unknown. If something is unclear or unknown, then anything derived from it cannot be trusted.
-- "Spit-balling" is fine, but you absolutely cannot build a successful solution on guesswork. Test those assertions. If you can't test them, then they are nothing more than fantasy and cannot be trusted. Save the hand-waving for your science-fiction novel. (Yes, I know you are writing a science fiction novel.)
+- "Spit-balling" is fine, but you absolutely cannot build a successful solution on guesswork. Test those assertions. If you can't test them, then they are nothing more than fantasy and cannot be trusted. Save the wild ideas for your science-fiction novel. (Yes, I know you are writing a science-fiction novel.)
 - Help yourself and help others by stating your assumptions up front when asking for a clarification or information. When asking for a piece of information that you know hinges on a possibly shared assumption, state that assumption.
   - i.e., don't just assume they are using that API or setting that 99.999% of people use; say something like, "Assuming you are using 'Frobnitz' setting, leaving it at the default of 'Xyzzy', can you please report the value of the 'Fnord' result exactly as shown?"
 
