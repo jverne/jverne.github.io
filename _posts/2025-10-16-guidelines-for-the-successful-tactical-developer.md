@@ -66,7 +66,7 @@ Here are some of my rules for better living through tactical development. This i
 
 - Help yourself and help others by stating your assumptions up front when asking for a clarification or information. When asking for a piece of information that you know hinges on a possibly shared assumption, state that assumption.
 
-  - i.e., don't just assume they are using that API or setting that 99.999% of people use; say something like, 'Assuming you are using 'Frobnitz' setting, leaving it at the default of 'Xyzzy', can you please report the value of the 'Fnord' result?"
+  - i.e., don't just assume they are using that API or setting that 99.999% of people use; say something like, "Assuming you are using 'Frobnitz' setting, leaving it at the default of 'Xyzzy', can you please report the value of the 'Fnord' result exactly as shown?"
 
 ## 4. Keep it simple, silly
 
