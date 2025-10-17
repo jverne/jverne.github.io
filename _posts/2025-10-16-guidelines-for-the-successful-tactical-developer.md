@@ -8,7 +8,7 @@ category: work
 ---
 # Guidelines for the Successful Tactical Developer
 
-You are a technical person, possibly a coder, but you probably know a whole bunch about other technologies. To you, it's just stuff you figured out. But other people have noticed this. And now you are on a call with a customer[^1] who has run into a very weird and very _critical_ problem that, on the face of it, should be _impossible_. It is your job to make sense of this and get the bottom of the problem. Ideally, by yesterday[^2].
+You are a technical person, possibly a coder, but you probably know a whole bunch about other technologies. To you, it's just stuff you figured out. But other people have noticed this. And now you are on a call with a customer[^1] who has run into a very weird and very _critical_ problem that, on the face of it, should be _impossible_. It is your job to make sense of this and get to the bottom of the problem. Ideally, by yesterday[^2].
 
 Congratulations and felicitations! You are now a Tactical Developer. Your cape[^3] is in the mail, along with pre-paid card for the local coffee shop. You'll need it.
 
